@@ -5,6 +5,13 @@ const $ = (sel, root = document) => root.querySelector(sel);
 const $$ = (sel, root = document) => Array.from(root.querySelectorAll(sel));
 const app = $("#app");
 
+/* 资源版本号：每次部署更新时递增，用于绕过浏览器/边缘节点对旧失败响应的缓存 */
+const ASSET_V = "v=3";
+const vUrl = (url) => {
+  const s = String(url || "");
+  return s + (s.includes("?") ? "&" : "?") + ASSET_V;
+};
+
 function esc(s) {
   return String(s ?? "").replace(/[&<>"']/g, (c) => ({
     "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;",
@@ -17,10 +24,16 @@ const staticCache = new Map();
 
 async function fetchJSON(url) {
   if (!staticCache.has(url)) {
-    const p = fetch(url).then((res) => {
-      if (!res.ok) throw new Error("请求失败 " + res.status);
+    const p = (async () => {
+      const target = vUrl(url);
+      let res = await fetch(target);
+      if (!res.ok) {
+        /* 可能是缓存中的旧失败响应：带时间戳强制重新请求一次 */
+        res = await fetch(target + "&_r=" + Date.now(), { cache: "reload" });
+      }
+      if (!res.ok) throw new Error("请求失败 " + res.status + "(" + url + ")");
       return res.json();
-    });
+    })();
     staticCache.set(url, p);
   }
   return staticCache.get(url);
@@ -49,28 +62,28 @@ function filterArtifacts(list, q, type, dynasty, kiln) {
 async function staticApi(path) {
   const [p, qs] = path.split("?");
   const params = new URLSearchParams(qs || "");
-  if (p === "/api/stats") return fetchJSON("static-data/stats.json");
+  if (p === "/api/stats") return fetchJSON("static/static-data/stats.json");
   if (p === "/api/kilns") {
-    const list = await fetchJSON("static-data/kilns.json");
+    const list = await fetchJSON("static/static-data/kilns.json");
     return filterKilns(list, params.get("q") || "", params.get("category") || "");
   }
   let m = p.match(/^\/api\/kilns\/(\d+)$/);
-  if (m) return fetchJSON(`static-data/kilns/${m[1]}.json`);
+  if (m) return fetchJSON(`static/static-data/kilns/${m[1]}.json`);
   if (p === "/api/artifacts") {
-    const list = await fetchJSON("static-data/artifacts.json");
+    const list = await fetchJSON("static/static-data/artifacts.json");
     return filterArtifacts(list, params.get("q") || "", params.get("type") || "",
       params.get("dynasty") || "", params.get("kiln") || "");
   }
   m = p.match(/^\/api\/artifacts\/(\d+)$/);
-  if (m) return fetchJSON(`static-data/artifacts/${m[1]}.json`);
-  if (p === "/api/timeline") return fetchJSON("static-data/timeline.json");
-  if (p === "/api/sources") return fetchJSON("static-data/sources.json");
+  if (m) return fetchJSON(`static/static-data/artifacts/${m[1]}.json`);
+  if (p === "/api/timeline") return fetchJSON("static/static-data/timeline.json");
+  if (p === "/api/sources") return fetchJSON("static/static-data/sources.json");
   if (p === "/api/search") {
     const q = params.get("q") || "";
     if (!q) return { kilns: [], artifacts: [] };
     const [kilns, artifacts] = await Promise.all([
-      fetchJSON("static-data/kilns.json"),
-      fetchJSON("static-data/artifacts.json"),
+      fetchJSON("static/static-data/kilns.json"),
+      fetchJSON("static/static-data/artifacts.json"),
     ]);
     return {
       kilns: filterKilns(kilns, q, ""),
@@ -82,16 +95,15 @@ async function staticApi(path) {
 
 async function api(path) {
   if (STATIC_MODE && path.startsWith("/api/")) return staticApi(path);
-  const res = await fetch(path);
-  if (!res.ok) throw new Error("请求失败 " + res.status);
+  const res = await fetch(vUrl(path));
+  if (!res.ok) throw new Error("请求失败 " + res.status + "(" + path + ")");
   return res.json();
 }
-
 function mediaHtml(item, cls = "card-media") {
   if (!item.image) {
     return `<div class="${cls}"><div class="ph">陶</div></div>`;
   }
-  return `<div class="${cls}"><img src="${esc(item.image)}" alt="${esc(item.name)}" loading="lazy"></div>`;
+  return `<div class="${cls}"><img src="${esc(vUrl(item.image))}" alt="${esc(item.name)}" loading="lazy"></div>`;
 }
 
 function kilnCard(k, i = 0) {
@@ -133,7 +145,7 @@ function regionEntry(k, i = 0) {
       ${r ? `
         <a class="rep-card" href="#artifacts/${r.id}">
           <span class="rep-media">
-            ${r.image ? `<img src="${esc(r.image)}" alt="${esc(r.name)}" loading="lazy">` : `<i>陶</i>`}
+            ${r.image ? `<img src="${esc(vUrl(r.image))}" alt="${esc(r.name)}" loading="lazy">` : `<i>陶</i>`}
           </span>
           <span class="rep-body">
             <small>代表器物 · ${esc(k.representative_label || "官方馆藏/认证")}</small>
@@ -337,7 +349,7 @@ async function viewHome() {
   ];
   const slides = heroes.map((h, i) => `
     <div class="hero-slide ${i === 0 ? "active" : ""}" data-i="${i}">
-      <div class="bg" style="background-image:url('${h.img}')"></div>
+      <div class="bg" style="background-image:url('${vUrl(h.img)}')"></div>
       <div class="hero-content">
         <div class="hero-kicker">${esc(h.kicker)}</div>
         <h1>${esc(h.title)}</h1>
@@ -425,7 +437,7 @@ function tlCard(t, i = 0) {
         <h3>${esc(t.title)}</h3>
         <div class="year">${esc(t.year_label)}</div>
         <p>${esc(t.description)}</p>
-        ${t.image ? `<div class="tl-img"><img src="${esc(t.image)}" alt="${esc(t.title)}" loading="lazy"></div>` : ""}
+        ${t.image ? `<div class="tl-img"><img src="${esc(vUrl(t.image))}" alt="${esc(t.title)}" loading="lazy"></div>` : ""}
       </div>
     </div>`;
 }
@@ -536,7 +548,7 @@ async function viewKiln(id) {
         ${k.representative ? `
           <a class="rep-hero reveal" href="#artifacts/${k.representative.id}">
             <div class="rep-hero-media">
-              ${k.representative.image ? `<img src="${esc(k.representative.image)}" alt="${esc(k.representative.name)}">` : `<div class="ph">陶</div>`}
+              ${k.representative.image ? `<img src="${esc(vUrl(k.representative.image))}" alt="${esc(k.representative.name)}">` : `<div class="ph">陶</div>`}
             </div>
             <div class="rep-hero-body">
               <div class="label">Official Representative · 官方馆藏代表器物</div>
@@ -554,13 +566,13 @@ async function viewKiln(id) {
         <div class="detail-layout">
           <div>
             <figure class="detail-figure reveal">
-              ${k.image ? `<img src="${esc(k.image)}" alt="${esc(k.name)}">` : `<div class="ph">陶</div>`}
+              ${k.image ? `<img src="${esc(vUrl(k.image))}" alt="${esc(k.name)}">` : `<div class="ph">陶</div>`}
               <figcaption>${esc((k.images && k.images[0] && k.images[0].credit) || "")}</figcaption>
               <span class="zoom-hint">⤢</span>
             </figure>
             ${gallery.length ? `
               <div class="gallery">
-                ${gallery.map(i => `<figure class="reveal"><img src="${esc(i.src)}" alt="${esc(k.name)}" loading="lazy"><figcaption>${esc(i.credit)}</figcaption></figure>`).join("")}
+                ${gallery.map(i => `<figure class="reveal"><img src="${esc(vUrl(i.src))}" alt="${esc(k.name)}" loading="lazy"><figcaption>${esc(i.credit)}</figcaption></figure>`).join("")}
               </div>` : ""}
           </div>
           <div class="detail-info">
@@ -710,7 +722,7 @@ async function viewArtifact(id) {
         </div>
         <div class="detail-layout">
           <figure class="detail-figure reveal">
-            ${a.image ? `<img src="${esc(a.image)}" alt="${esc(a.name)}">` : `<div class="ph" style="aspect-ratio:4/3">陶</div>`}
+            ${a.image ? `<img src="${esc(vUrl(a.image))}" alt="${esc(a.name)}">` : `<div class="ph" style="aspect-ratio:4/3">陶</div>`}
             <figcaption>${esc(a.image_credit || "")}</figcaption>
             ${a.image ? `<span class="zoom-hint">⤢</span>` : ""}
           </figure>
@@ -892,7 +904,12 @@ async function route() {
     else await viewHome();
   } catch (err) {
     console.error(err);
-    app.innerHTML = `<div class="empty">加载失败：${esc(err.message)}<br><br><a href="#home" style="border-bottom:1px solid var(--ink)">返回首页</a></div>`;
+    app.innerHTML = `<div class="empty">加载失败：${esc(err.message)}<br><br><a href="#" id="retry-load" style="border-bottom:1px solid var(--ink)">重新加载</a>&nbsp;&nbsp;&nbsp;<a href="#home" style="border-bottom:1px solid var(--ink)">返回首页</a></div>`;
+    const retryBtn = $("#retry-load");
+    if (retryBtn) retryBtn.addEventListener("click", (e) => {
+      e.preventDefault();
+      location.replace(location.pathname + "?r=" + Date.now() + (location.hash || ""));
+    });
   }
   scheduleRevealFallback();
 }
