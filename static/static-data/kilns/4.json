@@ -1,0 +1,148 @@
+{
+ "id": 4,
+ "name": "麻城蔡家山窑",
+ "alias": "蔡家山古窑·湖北真陶",
+ "category": "民窑",
+ "province": "湖北省",
+ "city": "黄冈市麻城市",
+ "district": "歧亭镇西北10公里",
+ "dynasty": "宋代（传）—现代",
+ "year_start": "宋代（传）",
+ "year_end": "20世纪80年代后停产",
+ "status": "已停产；窑址尚存",
+ "intro": "蔡家山古窑位于湖北省麻城市歧亭镇西北10公里处，据传为宋代蔡姓人所建，明崇祯年间的碾土石辊证实明代已有生产规模，明末清初产品曾远销东南亚诸国。该窑与汉川马口窑、蕲春管窑并称“湖北三大民窑”。当地“七色土”可塑性强、烧结不变形；20世纪80年代初产品曾在亚非拉多国展销，后被轻工部授予“湖北真陶”称号。",
+ "features": "以红、黄、黑三色釉（铅与陶土配制）为特色，烧成后附着力强、永不脱落，釉色温润古朴。装饰采取划花剔地阳纹为主、刮花阴纹作衬的刻陶手法，主次分明，并借鉴剪纸艺术，纹饰多取牡丹、梅花喜鹊、莲花鲤鱼等吉祥题材。代表作有双底青蛙炉、四季花鸟坛及《玉莲挑水》《打金枝》刻花陶罐。",
+ "craft": "七色土制坯—拉坯—刻划花（阳纹/阴纹）—三色釉—大龙窑柴烧。",
+ "honors": "1979年湖北陶瓷质量评比特级产品；80年代全国轻工窑品博览会获“湖北真陶”称号。",
+ "image": "static/images/caijiashan_jar.jpg",
+ "image_credit": "",
+ "representative_artifact_id": 40,
+ "representative_label": "官方荣誉 · “湖北真陶”（1979陶评特级产品）",
+ "images": [
+  {
+   "src": "static/images/caijiashan_jar.jpg",
+   "credit": "精美的麻城窑小罐（荆楚网）"
+  },
+  {
+   "src": "static/images/makou_caijiashan_life.jpg",
+   "credit": "马口窑和麻城窑的烛台、筷篓（荆楚网）"
+  },
+  {
+   "src": "static/images/caijiashan_site.jpg",
+   "credit": "蔡家山窑废弃窑址（瓷网“古窑万里行”）"
+  },
+  {
+   "src": "static/images/chutao_longyao.jpg",
+   "credit": "湖北民窑龙窑（人民网云南频道田野调查）"
+  },
+  {
+   "src": "static/images/chutao_kehuahua_tewrite.jpg",
+   "credit": "刻划花陶器特写（人民网云南频道田野调查）"
+  }
+ ],
+ "artifacts": [
+  {
+   "id": 19,
+   "name": "麻城窑刻花小罐",
+   "type": "日用器·陈设",
+   "dynasty": "清代—民国",
+   "image": "static/images/caijiashan_jar.jpg",
+   "period": "明清以来",
+   "description": "蔡家山窑以描金刻花陶闻名，小罐身饰吉祥花草人物，刀法借鉴剪纸，风格淳朴。1979年该窑产品在湖北陶瓷质量评比中被评为特级产品。"
+  },
+  {
+   "id": 38,
+   "name": "麻城窑双底青蛙炉",
+   "type": "陈设·香炉",
+   "dynasty": "清代—民国",
+   "image": null,
+   "period": "明清以来",
+   "description": "蔡家山窑代表性陈设器，双底设计别致，炉身刻划花鸟纹样，红黄黑三色釉在烧制中衍生丰富变化，曾在广交会上受到外商关注。"
+  },
+  {
+   "id": 39,
+   "name": "麻城窑四季花鸟坛",
+   "type": "陈设·日用器",
+   "dynasty": "清代—民国",
+   "image": null,
+   "period": "明清以来",
+   "description": "坛身以牡丹、梅花喜鹊、莲花鲤鱼等吉祥纹样组合四季主题，刻划借鉴民间剪纸，风格淳朴清新，是“湖北真陶”的代表性产品。"
+  },
+  {
+   "id": 40,
+   "name": "麻城窑《玉莲挑水》刻花陶罐",
+   "type": "陈设·日用器",
+   "dynasty": "清代—民国",
+   "image": "static/images/caijiashan_yulian.jpg",
+   "period": "明清以来",
+   "description": "罐身刻划民间戏曲《玉莲挑水》故事场景，挑水人物姿态生动，是蔡家山窑“以陶说戏”的典型作品，与《打金枝》陶罐并称窑口双璧。该窑1979年参加湖北陶瓷质量评比的产品被定为特级并获“湖北真陶”美誉，戏曲人物刻花罐是其最具识别度的产品门类。"
+  },
+  {
+   "id": 41,
+   "name": "麻城窑《打金枝》刻花陶罐",
+   "type": "陈设·日用器",
+   "dynasty": "清代—民国",
+   "image": null,
+   "period": "明清以来",
+   "description": "罐身刻划戏曲《打金枝》人物场面，主次分明、刀法利落，纹样源于民间故事与戏曲，兼具叙事性与装饰性。"
+  },
+  {
+   "id": 48,
+   "name": "蔡家山窑陶器组",
+   "type": "日用器·陈设",
+   "dynasty": "清代—民国",
+   "image": "static/images/caijiashan_pottery_group.jpg",
+   "period": "明清以来",
+   "description": "带提梁壶、执壶、灯台、双耳瓶等组器造型各异，釉色红黄黑相映，刻划纹饰古朴，是蔡家山窑日用陶与陈设陶并举的缩影。"
+  }
+ ],
+ "representative": {
+  "id": 40,
+  "name": "麻城窑《玉莲挑水》刻花陶罐",
+  "alias": "戏曲故事陶罐",
+  "type": "陈设·日用器",
+  "dynasty": "清代—民国",
+  "period": "明清以来",
+  "museum": "民间收藏",
+  "image": "static/images/caijiashan_yulian.jpg",
+  "image_credit": "人民网云南频道《在荆楚大地寻民间瑰宝》田野调查配图",
+  "description": "罐身刻划民间戏曲《玉莲挑水》故事场景，挑水人物姿态生动，是蔡家山窑“以陶说戏”的典型作品，与《打金枝》陶罐并称窑口双璧。该窑1979年参加湖北陶瓷质量评比的产品被定为特级并获“湖北真陶”美誉，戏曲人物刻花罐是其最具识别度的产品门类。"
+ },
+ "sources": [
+  {
+   "id": 13,
+   "title": "蔡家山古窑（词条）",
+   "publisher": "百度百科",
+   "date": "2025-12",
+   "url": "https://baike.baidu.com/item/蔡家山古窑"
+  },
+  {
+   "id": 14,
+   "title": "中国古窑万里行（十一）湖北民窑麻城蔡家山窑",
+   "publisher": "瓷网",
+   "date": "2016-03-11",
+   "url": "http://zhongguociwang.com/show.aspx?id=13072&cid=315"
+  },
+  {
+   "id": 4,
+   "title": "湖北制陶业萧条：传承百年楚陶如今隐入地摊（组图）",
+   "publisher": "楚天金报/荆楚网",
+   "date": "2014-10-26",
+   "url": "http://news.cnhubei.com/xw/wh/201410/t3080199_2.shtml"
+  },
+  {
+   "id": 28,
+   "title": "探秘：麻城蔡家山窑的千年传奇",
+   "publisher": "澎湃新闻",
+   "date": "2019-07-29",
+   "url": "https://www.thepaper.cn/newsDetail_forward_4054451"
+  },
+  {
+   "id": 31,
+   "title": "续写麻城百年名窑新篇章（蔡家山窑“湖北真陶”官方荣誉）",
+   "publisher": "澎湃新闻·政务（麻城市文化和旅游局）",
+   "date": "2020-01-18",
+   "url": "https://www.thepaper.cn/newsDetail_forward_5581794"
+  }
+ ]
+}

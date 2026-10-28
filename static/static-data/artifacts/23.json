@@ -1,0 +1,33 @@
+{
+ "id": 23,
+ "name": "湖泗窑青白瓷双鱼葵口碗",
+ "alias": "双鱼葵口碗",
+ "type": "瓷器·饮食器",
+ "dynasty": "宋代",
+ "period": "两宋",
+ "kiln_id": 5,
+ "museum": "湖泗古窑文化展示中心",
+ "excavated": "武汉江夏湖泗瓷窑址群",
+ "material": "青白瓷",
+ "technique": "拉坯、印花、刻花",
+ "dimensions": "口径约16—20厘米",
+ "description": "敞口葵瓣，碗底双鱼造型突出，青白釉莹润似玉，是湖泗窑青白瓷系的代表性器物。",
+ "image": "static/images/husig_bowls.jpg",
+ "image_credit": "中新网（湖泗古窑文化展示中心展品）",
+ "kiln": {
+  "id": 5,
+  "name": "湖泗瓷窑址群",
+  "alias": "湖泗窑·武昌窑",
+  "category": "古瓷窑址·国保",
+  "image": "static/images/husig_bowls.jpg"
+ },
+ "sources": [
+  {
+   "id": 6,
+   "title": "（文化中国行）武汉“湖泗瓷窑址群”：窑火曾映照古代民生百态",
+   "publisher": "中国新闻网/新华网湖北",
+   "date": "2026-07-03",
+   "url": "http://www.hubei.xinhua.org/20260703/b848bd040d5142c39e85fda272784e44/c.html"
+  }
+ ]
+}

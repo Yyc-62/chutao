@@ -1,0 +1,47 @@
+{
+ "id": 21,
+ "name": "马口陶文创茶盏",
+ "alias": "新派楚陶",
+ "type": "当代文创",
+ "dynasty": "当代",
+ "period": "2019年至今",
+ "kiln_id": 2,
+ "museum": "黄龙湖马口陶文化传承基地",
+ "excavated": "汉川",
+ "material": "红黏土陶胎，黑地金彩",
+ "technique": "釉下堆塑、金彩装饰",
+ "dimensions": "口径约8厘米",
+ "description": "将马口窑代表性剔花、堆塑工艺提炼后融入当代茶器设计，黑地金线描绘人物舟船，是“楚陶制作技艺”非遗活化与时尚化转型的代表作。",
+ "image": "static/images/makou_tea_cup.jpg",
+ "image_credit": "湖北日报（黄龙湖马口陶）",
+ "kiln": {
+  "id": 2,
+  "name": "汉川马口窑",
+  "alias": "马口陶·中国民陶",
+  "category": "民窑·非遗",
+  "image": "static/images/makou_display.jpg"
+ },
+ "sources": [
+  {
+   "id": 2,
+   "title": "马年话马｜马口窑火韵悠长",
+   "publisher": "新华社湖北频道",
+   "date": "2026-02-15",
+   "url": "http://www.hubei.xinhua.org/20260215/50dbcfd5cbe94301a49e3984f60f0629/c.html"
+  },
+  {
+   "id": 10,
+   "title": "陶瓷博士以文创炉火重燃千年龙窑",
+   "publisher": "湖北日报",
+   "date": "2025-08-25",
+   "url": "https://epaper.hubeidaily.net/pad/content/202508/25/content_324112.html"
+  },
+  {
+   "id": 15,
+   "title": "非遗文化挖掘与现代潮流完美融合：楚陶制作技艺入选武昌区非遗",
+   "publisher": "极目新闻/楚天都市报",
+   "date": "2020-06-10",
+   "url": "https://baijiahao.baidu.com/s?id=1669112423182842763"
+  }
+ ]
+}

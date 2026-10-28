@@ -1,0 +1,225 @@
+{
+ "id": 1,
+ "name": "纪南城制陶作坊遗址",
+ "alias": "楚都窑址群·郢都陶窑",
+ "category": "古窑址·东周",
+ "province": "湖北省",
+ "city": "荆州市",
+ "district": "荆州区纪南镇",
+ "dynasty": "东周（春秋战国）",
+ "year_start": "公元前689年",
+ "year_end": "公元前278年",
+ "status": "全国重点文物保护单位（楚纪南故城）",
+ "intro": "楚国都城纪南城（郢都）内外发现成排的制陶作坊区与窑址，城内保存大量灰坑、建筑遗迹、四百余口水井与成排窑址。已清理发掘的十余座窑址中，有全长8.5米、宽3.5米、残深2.5米的大型窑，也有火膛高于窑床、窑床高于火膛的各种中小型窑，形制已接近后世民间陶窑。",
+ "features": "产品覆盖建筑材料（筒瓦、板瓦、瓦当、井圈、空心砖、水管）、生产工具（纺轮、网坠、陶垫、陶拍、陶刷）与生活用器（炊器、盛器、水器、储藏器），以及仿铜礼器和祭祀用品。陶鼎、陶釜、陶鬲、陶甑、陶豆、陶瓮等器型庄重俊雅，纹饰精美多样，陶坯普遍采用轮制和模制。",
+ "craft": "轮制、模制结合，产品系列化、作坊化生产；窑炉已有大型龙窑雏形。",
+ "honors": "纪南故城1961年公布为全国重点文物保护单位；城址内制陶作坊区是研究楚文化手工业的标尺。",
+ "image": "static/images/ws_ding.jpg",
+ "image_credit": "",
+ "representative_artifact_id": 17,
+ "representative_label": "湖北省博物馆藏 · 楚纪南故城出土",
+ "images": [
+  {
+   "src": "static/images/ws_ding.jpg",
+   "credit": "战国陶鼎（湖北省博物馆藏，Wikimedia Commons CC0）"
+  },
+  {
+   "src": "static/images/ws_tile.jpg",
+   "credit": "战国筒瓦（湖北省博物馆藏，Wikimedia Commons CC0）"
+  },
+  {
+   "src": "static/images/ws_drain.jpg",
+   "credit": "战国陶水管（湖北省博物馆藏，Wikimedia Commons CC0）"
+  }
+ ],
+ "artifacts": [
+  {
+   "id": 3,
+   "name": "战国陶鼎（带盖）",
+   "type": "礼器·炊器",
+   "dynasty": "战国",
+   "image": "static/images/ws_ding.jpg",
+   "period": "公元前475—前221年",
+   "description": "楚式仿铜陶鼎，深灰胎，圆腹圜底，三柱足，带穹顶盖，盖面饰兽首钮。楚墓中陶鼎常与陶敦、陶壶组成仿铜礼器组合，是楚国葬制等级观念的物质化表达。"
+  },
+  {
+   "id": 4,
+   "name": "战国陶鬲",
+   "type": "炊器",
+   "dynasty": "战国",
+   "image": "static/images/ws_li.jpg",
+   "period": "公元前475—前221年",
+   "description": "楚文化最典型的炊器之一，三袋足便于受火，夹砂胎耐高温。楚式鬲沿袭中原鬲形又融入地方风格，是楚人饮食生活的标志性器物。"
+  },
+  {
+   "id": 5,
+   "name": "战国陶豆",
+   "type": "盛食器",
+   "dynasty": "战国",
+   "image": "static/images/ws_dou.jpg",
+   "period": "公元前475—前221年",
+   "description": "楚墓常见的盛食器，浅盘高柄，用于盛放脯醢等食物，随葬时与鼎、敦（簠）、壶等组合出现，器形规整，线条利落。"
+  },
+  {
+   "id": 6,
+   "name": "战国陶敦",
+   "type": "礼器·盛食器",
+   "dynasty": "战国",
+   "image": "static/images/ws_dui.jpg",
+   "period": "公元前475—前221年",
+   "description": "球形或卵形器身、三足，上下对称可开合，是战国楚墓仿铜礼器组合的核心成员之一，体现“事死如生”的丧葬观念。"
+  },
+  {
+   "id": 7,
+   "name": "战国陶簠",
+   "type": "礼器·盛食器",
+   "dynasty": "战国",
+   "image": "static/images/ws_fu.jpg",
+   "period": "公元前475—前221年",
+   "description": "长方形带盖盛食礼器，盖器形制相同、可却置，是仿铜陶礼器组合中“簠”制的陶化，反映楚国礼制的成熟与礼器明器化趋势。"
+  },
+  {
+   "id": 8,
+   "name": "战国陶罐",
+   "type": "储器",
+   "dynasty": "战国",
+   "image": "static/images/ws_guan.jpg",
+   "period": "公元前475—前221年",
+   "description": "楚墓最常见的储粮储水器，肩腹丰满，多饰绳纹或弦纹，实用性与装饰性兼备，是楚都纪南城制陶作坊的典型产品。"
+  },
+  {
+   "id": 9,
+   "name": "战国陶壶",
+   "type": "水器·酒器",
+   "dynasty": "战国",
+   "image": "static/images/ws_hu.jpg",
+   "period": "公元前475—前221年",
+   "description": "长颈鼓腹、带盖，是楚墓仿铜礼器组合中的常见器形，常与陶鼎、陶敦（簠）搭配，构成“鼎敦壶”或“鼎簠壶”组合。"
+  },
+  {
+   "id": 10,
+   "name": "战国陶钫（方壶）",
+   "type": "礼器·酒器",
+   "dynasty": "战国",
+   "image": "static/images/ws_square_hu.jpg",
+   "period": "公元前475—前221年",
+   "description": "方形壶身、覆斗形盖，为楚墓高等级仿铜礼器。纪南城窑址出土的仿铜陶方壶造型庄重、纹饰复杂，腹部、盖、耳和膝座多有浮雕动物与彩绘纹样，是楚陶中的上乘之作。"
+  },
+  {
+   "id": 11,
+   "name": "战国陶盉",
+   "type": "水器",
+   "dynasty": "战国",
+   "image": "static/images/ws_he.jpg",
+   "period": "公元前475—前221年",
+   "description": "带流带鋬的调酒或盥洗器，器形仿青铜盉，在楚墓中较为少见，反映楚人日用器与礼器的丰富层次。"
+  },
+  {
+   "id": 12,
+   "name": "战国陶鉴",
+   "type": "盛水器",
+   "dynasty": "战国",
+   "image": "static/images/ws_jian.jpg",
+   "period": "公元前475—前221年",
+   "description": "大口深腹的盛水（或盛冰）容器，器形仿青铜鉴，多用于盥洗或冷藏食物，是楚墓随葬陶器中的大型器。"
+  },
+  {
+   "id": 13,
+   "name": "战国陶瓮缶",
+   "type": "储器",
+   "dynasty": "战国",
+   "image": "static/images/ws_guanfou.jpg",
+   "period": "公元前475—前221年",
+   "description": "大型储酒储水器，器身多饰绳纹与附加堆纹，形体浑厚，是楚人仓储生活的实物见证。"
+  },
+  {
+   "id": 14,
+   "name": "战国陶珠（十一面体）",
+   "type": "饰品",
+   "dynasty": "战国",
+   "image": "static/images/ws_bead.jpg",
+   "period": "公元前475—前221年",
+   "description": "十一面体陶珠，造型规整，应为串饰组件，反映楚地制陶业对几何造型与标准化生产的把握。"
+  },
+  {
+   "id": 15,
+   "name": "战国陶瓶",
+   "type": "盛器",
+   "dynasty": "战国",
+   "image": "static/images/ws_vessel.jpg",
+   "period": "公元前475—前221年",
+   "description": "小口深腹陶瓶，用于盛储液体，器表多经打磨或饰弦纹，是楚墓日用陶器的常见形态。"
+  },
+  {
+   "id": 16,
+   "name": "战国筒瓦·瓦当",
+   "type": "建筑材料",
+   "dynasty": "战国",
+   "image": "static/images/ws_tile.jpg",
+   "period": "公元前475—前221年",
+   "description": "楚都纪南城宫殿区窑床上整齐排列筒瓦、板瓦，窑址还出土瓦当、井圈、空心砖与陶水管，说明东周楚都已有规模化的建材工业。"
+  },
+  {
+   "id": 17,
+   "name": "战国陶水管",
+   "type": "建材·市政设施",
+   "dynasty": "战国",
+   "image": "static/images/ws_drain.jpg",
+   "period": "公元前475—前221年",
+   "description": "陶质排水管道可逐节套接，构成城市排水系统，是楚国都城规划与公共工程的实物证据。"
+  },
+  {
+   "id": 32,
+   "name": "战国承插式陶水管（组）",
+   "type": "建材·市政设施",
+   "dynasty": "战国",
+   "image": "static/images/ws_tiles.jpg",
+   "period": "公元前475—前221年",
+   "description": "三件承插式陶水管可逐节套接构成城市排水管网，外壁绳纹既加固胎体又便于施工，是楚国都城公共工程的实物见证。"
+  },
+  {
+   "id": 42,
+   "name": "纪南城彩绘陶鼎",
+   "type": "礼器·炊器",
+   "dynasty": "战国",
+   "image": null,
+   "period": "公元前475—前221年",
+   "description": "现存于纪南城考古站标本室的彩绘陶鼎，纹饰明暗得当、色调爽然，是楚都陶窑烧制的高水平仿铜礼器，被誉为不可多得的陶艺上乘之作。"
+  }
+ ],
+ "representative": {
+  "id": 17,
+  "name": "战国陶水管",
+  "alias": "排水管道",
+  "type": "建材·市政设施",
+  "dynasty": "战国",
+  "period": "公元前475—前221年",
+  "museum": "湖北省博物馆",
+  "image": "static/images/ws_drain.jpg",
+  "image_credit": "湖北省博物馆藏（Wikimedia Commons CC0）",
+  "description": "陶质排水管道可逐节套接，构成城市排水系统，是楚国都城规划与公共工程的实物证据。"
+ },
+ "sources": [
+  {
+   "id": 3,
+   "title": "即将消失的职业之（七）楚陶传承人",
+   "publisher": "中国文艺网（《中国艺术报》）",
+   "date": "2015-05-05",
+   "url": "https://cflac.org.cn/wywzt/2015/xiaoshidezhiye/201505/t20150505_294053.html"
+  },
+  {
+   "id": 19,
+   "title": "荆州纪南城发现一批东周窑址",
+   "publisher": "雅昌艺术网",
+   "date": "2014-02-17",
+   "url": "https://news.artron.net/20140217/n567799_.html"
+  },
+  {
+   "id": 20,
+   "title": "Wikimedia Commons：湖北省博物馆楚文化展/湖泗窑址群出土文物展图片（CC0/CC BY-SA 4.0）",
+   "publisher": "Wikimedia Commons",
+   "date": "2026-08",
+   "url": "https://commons.wikimedia.org/"
+  }
+ ]
+}

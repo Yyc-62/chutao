@@ -1,0 +1,40 @@
+{
+ "id": 26,
+ "name": "湖泗窑青釉瓜棱执壶",
+ "alias": "瓜棱执壶",
+ "type": "瓷器·酒器",
+ "dynasty": "宋代",
+ "period": "两宋",
+ "kiln_id": 5,
+ "museum": "武汉博物馆（出土于江夏区湖泗窑址）",
+ "excavated": "武汉江夏湖泗瓷窑址群",
+ "material": "青釉瓷",
+ "technique": "拉坯、剔棱",
+ "dimensions": "高约15—25厘米",
+ "description": "撇口、长颈、瓜棱腹，配扁带执柄与微曲直流，通体青釉含蓄典雅。高21.5厘米、口径7.2厘米、底径7.4厘米，出土于江夏区湖泗窑址，现藏武汉博物馆，是江夏区博物馆“湖泗风华”专题展的代表性展品。",
+ "image": "static/images/husig_gualeng_zhihu.jpg",
+ "image_credit": "武汉博物馆藏（人民美术网）",
+ "kiln": {
+  "id": 5,
+  "name": "湖泗瓷窑址群",
+  "alias": "湖泗窑·武昌窑",
+  "category": "古瓷窑址·国保",
+  "image": "static/images/husig_bowls.jpg"
+ },
+ "sources": [
+  {
+   "id": 6,
+   "title": "（文化中国行）武汉“湖泗瓷窑址群”：窑火曾映照古代民生百态",
+   "publisher": "中国新闻网/新华网湖北",
+   "date": "2026-07-03",
+   "url": "http://www.hubei.xinhua.org/20260703/b848bd040d5142c39e85fda272784e44/c.html"
+  },
+  {
+   "id": 23,
+   "title": "古朴大方的宋代湖泗窑青釉瓜棱执壶",
+   "publisher": "人民美术网",
+   "date": "2020-06-11",
+   "url": "http://www.peopleart.tv/203432.shtml"
+  }
+ ]
+}

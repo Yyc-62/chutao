@@ -1,0 +1,40 @@
+{
+ "id": 49,
+ "name": "三国吴青瓷虎子",
+ "alias": "青瓷虎形盛器",
+ "type": "瓷器·水器",
+ "dynasty": "三国吴—六朝",
+ "period": "222—589年",
+ "kiln_id": 6,
+ "museum": "湖北省鄂州市博物馆",
+ "excavated": "鄂州",
+ "material": "青瓷",
+ "technique": "龙窑烧造、青黄釉",
+ "dimensions": "通高15.5厘米，长26.6厘米",
+ "description": "虎子通体施青釉，均匀透亮，开细密纹片，口部饰张牙露齿的虎首，提梁与四足俱全，是六朝鄂州青瓷的代表性器形，见证鄂城窑早期青瓷的成熟。",
+ "image": "static/images/ezhou_qingci_huzi.jpg",
+ "image_credit": "湖北省鄂州市博物馆藏（中华陶瓷网）",
+ "kiln": {
+  "id": 6,
+  "name": "鄂城窑·武昌窑",
+  "alias": "梁子湖早期青瓷窑群",
+  "category": "古瓷窑址",
+  "image": "static/images/husig_kiln_model.jpg"
+ },
+ "sources": [
+  {
+   "id": 29,
+   "title": "青瓷虎子（湖北省鄂州市博物馆藏）",
+   "publisher": "中华陶瓷网",
+   "date": "2009-01-08",
+   "url": "http://www.ctaoci.com/html/2009-01-08/55273.html"
+  },
+  {
+   "id": 5,
+   "title": "首部展示楚地近七千年陶瓷发展史的丛书编纂完成",
+   "publisher": "中国新闻网",
+   "date": "2014-12-08",
+   "url": "https://www.chinanews.com.cn/cul/2014/12-08/6854672.shtml"
+  }
+ ]
+}

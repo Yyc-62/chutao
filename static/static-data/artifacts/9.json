@@ -1,0 +1,33 @@
+{
+ "id": 9,
+ "name": "战国陶壶",
+ "alias": "灰陶壶",
+ "type": "水器·酒器",
+ "dynasty": "战国",
+ "period": "公元前475—前221年",
+ "kiln_id": 1,
+ "museum": "湖北省博物馆",
+ "excavated": "湖北楚墓",
+ "material": "灰陶",
+ "technique": "轮制，饰弦纹",
+ "dimensions": "高约25—45厘米",
+ "description": "长颈鼓腹、带盖，是楚墓仿铜礼器组合中的常见器形，常与陶鼎、陶敦（簠）搭配，构成“鼎敦壶”或“鼎簠壶”组合。",
+ "image": "static/images/ws_hu.jpg",
+ "image_credit": "湖北省博物馆藏（Wikimedia Commons CC0）",
+ "kiln": {
+  "id": 1,
+  "name": "纪南城制陶作坊遗址",
+  "alias": "楚都窑址群·郢都陶窑",
+  "category": "古窑址·东周",
+  "image": "static/images/ws_ding.jpg"
+ },
+ "sources": [
+  {
+   "id": 20,
+   "title": "Wikimedia Commons：湖北省博物馆楚文化展/湖泗窑址群出土文物展图片（CC0/CC BY-SA 4.0）",
+   "publisher": "Wikimedia Commons",
+   "date": "2026-08",
+   "url": "https://commons.wikimedia.org/"
+  }
+ ]
+}

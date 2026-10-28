@@ -1,0 +1,33 @@
+{
+ "id": 2,
+ "name": "石家河文化陶塑动物",
+ "alias": "陶狗·陶鸟",
+ "type": "史前陶塑",
+ "dynasty": "新石器时代",
+ "period": "石家河文化（约公元前2600—前2000年）",
+ "kiln_id": null,
+ "museum": "湖北省博物馆",
+ "excavated": "湖北石家河遗址群",
+ "material": "红陶",
+ "technique": "捏塑、模制",
+ "dimensions": "高约5—12厘米",
+ "description": "石家河文化以数量庞大的陶塑小动物闻名，形象包括狗、鸟、猪、象等，造型概括生动，是史前先民精神世界与原始信仰的直接见证。",
+ "image": "static/images/shijiahe_animals.jpg",
+ "image_credit": "湖北省博物馆藏（Wikimedia Commons CC0）",
+ "sources": [
+  {
+   "id": 5,
+   "title": "首部展示楚地近七千年陶瓷发展史的丛书编纂完成",
+   "publisher": "中国新闻网",
+   "date": "2014-12-08",
+   "url": "https://www.chinanews.com.cn/cul/2014/12-08/6854672.shtml"
+  },
+  {
+   "id": 20,
+   "title": "Wikimedia Commons：湖北省博物馆楚文化展/湖泗窑址群出土文物展图片（CC0/CC BY-SA 4.0）",
+   "publisher": "Wikimedia Commons",
+   "date": "2026-08",
+   "url": "https://commons.wikimedia.org/"
+  }
+ ]
+}

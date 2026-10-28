@@ -1,0 +1,33 @@
+{
+ "id": 45,
+ "name": "大溪文化刻划花陶器",
+ "alias": "史前刻划装饰",
+ "type": "史前陶器",
+ "dynasty": "新石器时代",
+ "period": "大溪文化（约公元前4500—前3300年）",
+ "kiln_id": null,
+ "museum": "民间田野调查采集",
+ "excavated": "湖北境内大溪文化遗存",
+ "material": "泥质陶",
+ "technique": "刻划花",
+ "dimensions": "组器",
+ "description": "大溪文化陶器上的刻划花装饰具有很强浮雕感，形象不重叠交叉，注重外轮廓的影像效果，是湖北民间陶瓷刻划花传统的史前源头。",
+ "image": "static/images/daxi_kehuahua.jpg",
+ "image_credit": "人民网云南频道《在荆楚大地寻民间瑰宝》田野调查配图",
+ "sources": [
+  {
+   "id": 24,
+   "title": "在荆楚大地寻民间瑰宝（湖北民间陶瓷田野调查）",
+   "publisher": "人民网云南频道",
+   "date": "2021-01-26",
+   "url": "http://yn.people.com.cn/BIG5/n2/2021/0126/c372458-34547598.html"
+  },
+  {
+   "id": 5,
+   "title": "首部展示楚地近七千年陶瓷发展史的丛书编纂完成",
+   "publisher": "中国新闻网",
+   "date": "2014-12-08",
+   "url": "https://www.chinanews.com.cn/cul/2014/12-08/6854672.shtml"
+  }
+ ]
+}

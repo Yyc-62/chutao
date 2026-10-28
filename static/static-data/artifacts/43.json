@@ -1,0 +1,40 @@
+{
+ "id": 43,
+ "name": "三国吴青瓷（鄂城窑·武昌窑）",
+ "alias": "早期青瓷",
+ "type": "瓷器·日用器",
+ "dynasty": "三国吴—六朝",
+ "period": "222—589年",
+ "kiln_id": 6,
+ "museum": "湖北各地博物馆",
+ "excavated": "梁子湖沿岸窑址",
+ "material": "青瓷",
+ "technique": "龙窑烧造、青釉施挂",
+ "dimensions": "组器",
+ "description": "自三国吴时起，梁子湖沿岸鄂城窑、武昌窑陆续烧造青瓷，瓷器真正走上荆楚历史舞台，为晚唐至宋湖泗窑的繁荣埋下伏笔。图为鄂州市博物馆藏三国吴青瓷罍形扁壶，青黄釉、四系、兽首装饰，是六朝鄂州青瓷的代表。",
+ "image": "static/images/ezhou_qingci_bianhu.jpg",
+ "image_credit": "鄂州市博物馆藏（人民日报海外版 田豆豆摄）",
+ "kiln": {
+  "id": 6,
+  "name": "鄂城窑·武昌窑",
+  "alias": "梁子湖早期青瓷窑群",
+  "category": "古瓷窑址",
+  "image": "static/images/husig_kiln_model.jpg"
+ },
+ "sources": [
+  {
+   "id": 5,
+   "title": "首部展示楚地近七千年陶瓷发展史的丛书编纂完成",
+   "publisher": "中国新闻网",
+   "date": "2014-12-08",
+   "url": "https://www.chinanews.com.cn/cul/2014/12-08/6854672.shtml"
+  },
+  {
+   "id": 26,
+   "title": "寻“鄂”千年 鉴照历史（你所不知道的一级馆）",
+   "publisher": "人民日报海外版",
+   "date": "2026-02-03",
+   "url": "https://paper.people.com.cn/rmrbhwb/pc/content/202602/03/content_30137765.html"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "id": 13,
+ "name": "战国陶瓮缶",
+ "alias": "瓮·缶",
+ "type": "储器",
+ "dynasty": "战国",
+ "period": "公元前475—前221年",
+ "kiln_id": 1,
+ "museum": "湖北省博物馆",
+ "excavated": "湖北楚墓",
+ "material": "灰陶",
+ "technique": "轮制",
+ "dimensions": "高约30—50厘米",
+ "description": "大型储酒储水器，器身多饰绳纹与附加堆纹，形体浑厚，是楚人仓储生活的实物见证。",
+ "image": "static/images/ws_guanfou.jpg",
+ "image_credit": "湖北省博物馆藏（Wikimedia Commons CC0）",
+ "kiln": {
+  "id": 1,
+  "name": "纪南城制陶作坊遗址",
+  "alias": "楚都窑址群·郢都陶窑",
+  "category": "古窑址·东周",
+  "image": "static/images/ws_ding.jpg"
+ },
+ "sources": [
+  {
+   "id": 20,
+   "title": "Wikimedia Commons：湖北省博物馆楚文化展/湖泗窑址群出土文物展图片（CC0/CC BY-SA 4.0）",
+   "publisher": "Wikimedia Commons",
+   "date": "2026-08",
+   "url": "https://commons.wikimedia.org/"
+  }
+ ]
+}

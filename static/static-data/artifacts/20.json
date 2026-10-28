@@ -1,0 +1,33 @@
+{
+ "id": 20,
+ "name": "马口窑·麻城窑烛台与筷篓",
+ "alias": "生活杂器",
+ "type": "日用器",
+ "dynasty": "清代—民国",
+ "period": "明清以来",
+ "kiln_id": 2,
+ "museum": "民间收藏",
+ "excavated": "湖北民间窑场",
+ "material": "陶胎，三色釉",
+ "technique": "刻花、施釉",
+ "dimensions": "组器",
+ "description": "烛台、筷篓等生活杂器造型样式化，既美观又实用，是“楚陶即生活”的最佳注脚，展现了江汉平原民间的日常烟火。",
+ "image": "static/images/makou_caijiashan_life.jpg",
+ "image_credit": "荆楚网/楚天金报（收藏家藏品）",
+ "kiln": {
+  "id": 2,
+  "name": "汉川马口窑",
+  "alias": "马口陶·中国民陶",
+  "category": "民窑·非遗",
+  "image": "static/images/makou_display.jpg"
+ },
+ "sources": [
+  {
+   "id": 4,
+   "title": "湖北制陶业萧条：传承百年楚陶如今隐入地摊（组图）",
+   "publisher": "楚天金报/荆楚网",
+   "date": "2014-10-26",
+   "url": "http://news.cnhubei.com/xw/wh/201410/t3080199_2.shtml"
+  }
+ ]
+}

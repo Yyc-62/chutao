@@ -1,0 +1,40 @@
+{
+ "id": 17,
+ "name": "战国陶水管",
+ "alias": "排水管道",
+ "type": "建材·市政设施",
+ "dynasty": "战国",
+ "period": "公元前475—前221年",
+ "kiln_id": 1,
+ "museum": "湖北省博物馆",
+ "excavated": "楚纪南故城",
+ "material": "灰陶",
+ "technique": "轮制、套接",
+ "dimensions": "径约15—30厘米",
+ "description": "陶质排水管道可逐节套接，构成城市排水系统，是楚国都城规划与公共工程的实物证据。",
+ "image": "static/images/ws_drain.jpg",
+ "image_credit": "湖北省博物馆藏（Wikimedia Commons CC0）",
+ "kiln": {
+  "id": 1,
+  "name": "纪南城制陶作坊遗址",
+  "alias": "楚都窑址群·郢都陶窑",
+  "category": "古窑址·东周",
+  "image": "static/images/ws_ding.jpg"
+ },
+ "sources": [
+  {
+   "id": 3,
+   "title": "即将消失的职业之（七）楚陶传承人",
+   "publisher": "中国文艺网（《中国艺术报》）",
+   "date": "2015-05-05",
+   "url": "https://cflac.org.cn/wywzt/2015/xiaoshidezhiye/201505/t20150505_294053.html"
+  },
+  {
+   "id": 19,
+   "title": "荆州纪南城发现一批东周窑址",
+   "publisher": "雅昌艺术网",
+   "date": "2014-02-17",
+   "url": "https://news.artron.net/20140217/n567799_.html"
+  }
+ ]
+}

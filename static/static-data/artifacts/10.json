@@ -1,0 +1,40 @@
+{
+ "id": 10,
+ "name": "战国陶钫（方壶）",
+ "alias": "仿铜陶方壶",
+ "type": "礼器·酒器",
+ "dynasty": "战国",
+ "period": "公元前475—前221年",
+ "kiln_id": 1,
+ "museum": "湖北省博物馆",
+ "excavated": "湖北楚墓",
+ "material": "灰陶",
+ "technique": "轮制、模制，浮雕装饰",
+ "dimensions": "高约30—50厘米",
+ "description": "方形壶身、覆斗形盖，为楚墓高等级仿铜礼器。纪南城窑址出土的仿铜陶方壶造型庄重、纹饰复杂，腹部、盖、耳和膝座多有浮雕动物与彩绘纹样，是楚陶中的上乘之作。",
+ "image": "static/images/ws_square_hu.jpg",
+ "image_credit": "湖北省博物馆藏（Wikimedia Commons CC0）",
+ "kiln": {
+  "id": 1,
+  "name": "纪南城制陶作坊遗址",
+  "alias": "楚都窑址群·郢都陶窑",
+  "category": "古窑址·东周",
+  "image": "static/images/ws_ding.jpg"
+ },
+ "sources": [
+  {
+   "id": 20,
+   "title": "Wikimedia Commons：湖北省博物馆楚文化展/湖泗窑址群出土文物展图片（CC0/CC BY-SA 4.0）",
+   "publisher": "Wikimedia Commons",
+   "date": "2026-08",
+   "url": "https://commons.wikimedia.org/"
+  },
+  {
+   "id": 3,
+   "title": "即将消失的职业之（七）楚陶传承人",
+   "publisher": "中国文艺网（《中国艺术报》）",
+   "date": "2015-05-05",
+   "url": "https://cflac.org.cn/wywzt/2015/xiaoshidezhiye/201505/t20150505_294053.html"
+  }
+ ]
+}

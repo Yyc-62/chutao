@@ -1,0 +1,40 @@
+{
+ "id": 37,
+ "name": "马口窑字谜坛",
+ "alias": "“金玉满堂”字谜坛",
+ "type": "陈设·日用器",
+ "dynasty": "清代",
+ "period": "道光年间",
+ "kiln_id": 2,
+ "museum": "民间收藏",
+ "excavated": "湖北天门·汉川一带",
+ "material": "陶胎，施釉刻字",
+ "technique": "刻字、施釉",
+ "dimensions": "高约25—40厘米",
+ "description": "楚陶把灯谜写进日用陶器：楚天金报藏家专访所载“八王面前一对瓜，一颗明珠在王家，二十三天下大雨，和尚口下吐泥巴”，谜底即“金玉满堂”；翔宇谜馆另藏清代马口窑字谜陶坛（高21.5厘米、重2.6公斤），上刻“四围不通风，十字在当中，把做田字猜，一窍也不通”，隐“亞”字。",
+ "image": null,
+ "image_credit": "资料图暂缺（见楚天金报藏家专访、翔宇谜馆藏品著录）",
+ "kiln": {
+  "id": 2,
+  "name": "汉川马口窑",
+  "alias": "马口陶·中国民陶",
+  "category": "民窑·非遗",
+  "image": "static/images/makou_display.jpg"
+ },
+ "sources": [
+  {
+   "id": 21,
+   "title": "湖北藏家30年收藏逾万件楚陶 串联荆楚7000年历史",
+   "publisher": "楚天金报/荆楚网",
+   "date": "2014-06-03",
+   "url": "http://www.cnhubei.com/xw/wh/201406/t2944127.shtml"
+  },
+  {
+   "id": 25,
+   "title": "谜史见证——翔宇谜馆藏品（1）：清代马口窑字谜陶坛",
+   "publisher": "翔宇谜馆（360doc）",
+   "date": "2015-01-06",
+   "url": "https://www.360doc.cn/article/14197453_438803076.html"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "id": 27,
+ "name": "楚陶收藏一角",
+ "alias": "湖北民间陶器",
+ "type": "场景·收藏",
+ "dynasty": "近现代",
+ "period": "20世纪",
+ "kiln_id": null,
+ "museum": "民间收藏",
+ "excavated": "湖北各地",
+ "material": "陶",
+ "technique": "拉坯、刻花、施釉",
+ "dimensions": "场景",
+ "description": "湖北藏家程远斌30余年收集楚陶逾万件，覆盖新石器时代至近现代，陶器串联起荆楚7000年历史，被誉为“楚陶保卫战”的民间样本。",
+ "image": "static/images/collection_warehouse.jpg",
+ "image_credit": "楚天金报/荆楚网",
+ "sources": [
+  {
+   "id": 4,
+   "title": "湖北制陶业萧条：传承百年楚陶如今隐入地摊（组图）",
+   "publisher": "楚天金报/荆楚网",
+   "date": "2014-10-26",
+   "url": "http://news.cnhubei.com/xw/wh/201410/t3080199_2.shtml"
+  },
+  {
+   "id": 5,
+   "title": "首部展示楚地近七千年陶瓷发展史的丛书编纂完成",
+   "publisher": "中国新闻网",
+   "date": "2014-12-08",
+   "url": "https://www.chinanews.com.cn/cul/2014/12-08/6854672.shtml"
+  }
+ ]
+}

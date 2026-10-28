@@ -1,0 +1,33 @@
+{
+ "id": 31,
+ "name": "石家河文化筒形祭祀陶器",
+ "alias": "高柄祭祀器",
+ "type": "史前祭祀用器",
+ "dynasty": "新石器时代",
+ "period": "石家河文化（约公元前2600—前2000年）",
+ "kiln_id": null,
+ "museum": "湖北省博物馆",
+ "excavated": "湖北石家河遗址群",
+ "material": "泥质陶",
+ "technique": "轮制、模制、堆塑",
+ "dimensions": "高约30—50厘米",
+ "description": "高柄筒形祭祀器以螺旋状凸棱装饰底座，造型神秘庄重，反映石家河社会对天地沟通的想象，是长江中游史前礼制的实物证据。",
+ "image": "static/images/ws_shijiahe_tubular.jpg",
+ "image_credit": "湖北省博物馆藏（Wikimedia Commons CC BY-SA 4.0）",
+ "sources": [
+  {
+   "id": 5,
+   "title": "首部展示楚地近七千年陶瓷发展史的丛书编纂完成",
+   "publisher": "中国新闻网",
+   "date": "2014-12-08",
+   "url": "https://www.chinanews.com.cn/cul/2014/12-08/6854672.shtml"
+  },
+  {
+   "id": 20,
+   "title": "Wikimedia Commons：湖北省博物馆楚文化展/湖泗窑址群出土文物展图片（CC0/CC BY-SA 4.0）",
+   "publisher": "Wikimedia Commons",
+   "date": "2026-08",
+   "url": "https://commons.wikimedia.org/"
+  }
+ ]
+}

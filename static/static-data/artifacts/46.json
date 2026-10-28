@@ -1,0 +1,26 @@
+{
+ "id": 46,
+ "name": "鱼戏莲刻花陶钵（残件）",
+ "alias": "刻花陶钵",
+ "type": "日用器·陈设",
+ "dynasty": "清代—民国",
+ "period": "明清以来",
+ "kiln_id": null,
+ "museum": "民间田野调查采集",
+ "excavated": "湖北民间窑场",
+ "material": "陶胎，黄褐釉",
+ "technique": "刻花、划花",
+ "dimensions": "残件",
+ "description": "破损陶钵上双鱼戏莲纹清晰可辨，釉下刻划生动自然，是湖北民间刻划花陶器“以鱼莲寄连年有余”的典型样本，采集于民间田野调查。",
+ "image": "static/images/chutao_yuxilian_bowen.jpg",
+ "image_credit": "人民网云南频道《在荆楚大地寻民间瑰宝》田野调查配图",
+ "sources": [
+  {
+   "id": 24,
+   "title": "在荆楚大地寻民间瑰宝（湖北民间陶瓷田野调查）",
+   "publisher": "人民网云南频道",
+   "date": "2021-01-26",
+   "url": "http://yn.people.com.cn/BIG5/n2/2021/0126/c372458-34547598.html"
+  }
+ ]
+}

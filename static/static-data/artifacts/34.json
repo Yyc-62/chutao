@@ -1,0 +1,40 @@
+{
+ "id": 34,
+ "name": "马口陶花器",
+ "alias": "釉彩花瓶",
+ "type": "当代陶艺·花器",
+ "dynasty": "当代",
+ "period": "2019年至今",
+ "kiln_id": 2,
+ "museum": "黄龙湖马口陶文化传承基地",
+ "excavated": "汉川",
+ "material": "红黏土陶胎，黄褐釉",
+ "technique": "拉坯、施釉、窑变",
+ "dimensions": "高约25—40厘米",
+ "description": "瓶身呈暖黄至棕褐渐变，釉面斑驳富有窑变质感，将马口陶古法釉色融入当代家居陈设，是楚陶生活化的代表作品。",
+ "image": "static/images/hlh_5.jpg",
+ "image_credit": "湖北日报（黄龙湖马口陶）",
+ "kiln": {
+  "id": 2,
+  "name": "汉川马口窑",
+  "alias": "马口陶·中国民陶",
+  "category": "民窑·非遗",
+  "image": "static/images/makou_display.jpg"
+ },
+ "sources": [
+  {
+   "id": 17,
+   "title": "一件伴手礼——黄龙湖马口陶的前世今生",
+   "publisher": "荆楚网",
+   "date": "2021-04-12",
+   "url": "http://news.cnhubei.com/content/2021-04/12/content_13730598.html"
+  },
+  {
+   "id": 2,
+   "title": "马年话马｜马口窑火韵悠长",
+   "publisher": "新华社湖北频道",
+   "date": "2026-02-15",
+   "url": "http://www.hubei.xinhua.org/20260215/50dbcfd5cbe94301a49e3984f60f0629/c.html"
+  }
+ ]
+}

@@ -1,0 +1,106 @@
+[
+ {
+  "id": 1,
+  "period": "城背溪文化",
+  "title": "荆楚陶器之始",
+  "year_label": "约公元前7500—前5000年",
+  "description": "湖北地区自新石器时代起生产陶器，城背溪文化遗址中已发现早期红陶生活器具。",
+  "image": null
+ },
+ {
+  "id": 2,
+  "period": "大溪文化",
+  "title": "红陶与彩陶并举",
+  "year_label": "约公元前4500—前3300年",
+  "description": "大溪文化遗址出土红陶、黑陶、灰陶生活器具，彩陶艺术趋于成熟，纹饰以绳索纹、网格纹为代表。",
+  "image": null
+ },
+ {
+  "id": 3,
+  "period": "屈家岭文化",
+  "title": "轮制与彩陶高峰",
+  "year_label": "约公元前3000—前2600年",
+  "description": "屈家岭文化以彩陶纺轮、薄胎彩陶杯等闻名，轮制技术成熟，是长江中游制陶业的第一个高峰。",
+  "image": "static/images/ws_qujialing.jpg"
+ },
+ {
+  "id": 4,
+  "period": "石家河文化",
+  "title": "陶塑艺术的奇观",
+  "year_label": "约公元前2600—前2000年",
+  "description": "石家河文化出土数以万计的陶塑小动物与人偶，湖北天门石家河遗址群成为新石器时代制陶中心。",
+  "image": "static/images/shijiahe_animals.jpg"
+ },
+ {
+  "id": 5,
+  "period": "东周·楚都纪南城",
+  "title": "楚都窑火",
+  "year_label": "公元前689—前278年",
+  "description": "楚都纪南城内外发现成排窑址、四百余口水井与大型制陶作坊，轮制模制并用，生产建材、工具、生活器与仿铜礼器，陶鼎陶鬲陶豆等蔚为大观。",
+  "image": "static/images/ws_ding.jpg"
+ },
+ {
+  "id": 6,
+  "period": "三国吴—六朝",
+  "title": "鄂城窑·武昌窑青瓷登场",
+  "year_label": "222—589年",
+  "description": "梁子湖沿岸鄂城窑、武昌窑陆续烧造青瓷，瓷器真正走上荆楚历史舞台。",
+  "image": null
+ },
+ {
+  "id": 7,
+  "period": "晚唐五代—两宋",
+  "title": "湖泗窑：湖北瓷都",
+  "year_label": "907—1279年",
+  "description": "湖泗瓷窑址群180余处窑堆沿梁子湖、斧头湖展开，青白瓷与青瓷并举，是湖北宋代规模最大的窑场，填补南北交会之地制瓷缺环。",
+  "image": "static/images/husig_bowls.jpg"
+ },
+ {
+  "id": 8,
+  "period": "元明",
+  "title": "民窑接棒·景德镇归流",
+  "year_label": "1271—1644年",
+  "description": "元代起全国制瓷中心归统景德镇，湖北瓷窑渐衰；与此同时马口窑、管窑、蔡家山窑等民间陶窑兴起，日用陶进入千家万户。",
+  "image": "static/images/makou_baxian.jpg"
+ },
+ {
+  "id": 9,
+  "period": "明洪武二年",
+  "title": "管窑建窑",
+  "year_label": "1369年",
+  "description": "蕲春管窑李家窑始建，现存98米长古龙窑为湖北唯一保存完整且仍在使用的古龙窑。",
+  "image": "static/images/guanyao_dragon_kiln.jpg"
+ },
+ {
+  "id": 10,
+  "period": "明隆庆年间",
+  "title": "马口窑创烧与鼎盛",
+  "year_label": "1567—1572年",
+  "description": "马口窑诞生，鼎盛时数百口窑、108座龙窑沿汉江分布，形成“十里窑场不夜天”盛况，产品远销海内外。",
+  "image": "static/images/makou_display.jpg"
+ },
+ {
+  "id": 11,
+  "period": "20世纪中后期",
+  "title": "三大民窑的最后荣光",
+  "year_label": "1950—2000年",
+  "description": "马口窑、麻城窑、蕲春窑生产的日用陶走进全国千家万户甚至远销海外；2000年马口窑最后一口窑关闭，传统楚陶一度式微。",
+  "image": "static/images/collection_warehouse.jpg"
+ },
+ {
+  "id": 12,
+  "period": "2001—2011年",
+  "title": "遗产保护启动",
+  "year_label": "2001—2011年",
+  "description": "湖泗瓷窑址群列入全国重点文物保护单位（2001）；马口窑古窑址列入湖北省保（2008）；马口陶器烧陶技艺（2011）与管窑手工制陶技艺（2007）相继列入非遗。",
+  "image": "static/images/husig_site.jpg"
+ },
+ {
+  "id": 13,
+  "period": "2019年至今",
+  "title": "楚陶复兴",
+  "year_label": "2019年至今",
+  "description": "黄龙湖马口陶文化传承基地复建复烧，“楚陶制作技艺”列入武昌区非遗；管窑千年龙窑柴烧艺术节持续举办，楚陶以当代设计重新走进生活。",
+  "image": "static/images/makou_tea_cup.jpg"
+ }
+]

@@ -1,0 +1,33 @@
+{
+ "id": 14,
+ "name": "战国陶珠（十一面体）",
+ "alias": "陶珠",
+ "type": "饰品",
+ "dynasty": "战国",
+ "period": "公元前475—前221年",
+ "kiln_id": 1,
+ "museum": "湖北省博物馆",
+ "excavated": "湖北楚墓",
+ "material": "灰陶",
+ "technique": "模制、钻孔",
+ "dimensions": "径约2—4厘米",
+ "description": "十一面体陶珠，造型规整，应为串饰组件，反映楚地制陶业对几何造型与标准化生产的把握。",
+ "image": "static/images/ws_bead.jpg",
+ "image_credit": "湖北省博物馆藏（Wikimedia Commons CC0）",
+ "kiln": {
+  "id": 1,
+  "name": "纪南城制陶作坊遗址",
+  "alias": "楚都窑址群·郢都陶窑",
+  "category": "古窑址·东周",
+  "image": "static/images/ws_ding.jpg"
+ },
+ "sources": [
+  {
+   "id": 20,
+   "title": "Wikimedia Commons：湖北省博物馆楚文化展/湖泗窑址群出土文物展图片（CC0/CC BY-SA 4.0）",
+   "publisher": "Wikimedia Commons",
+   "date": "2026-08",
+   "url": "https://commons.wikimedia.org/"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "id": 25,
+ "name": "湖泗窑青白釉奕棋瓷枕",
+ "alias": "弈棋枕",
+ "type": "瓷器·寝具",
+ "dynasty": "宋代",
+ "period": "两宋",
+ "kiln_id": 5,
+ "museum": "武汉湖泗窑址群出土文物展",
+ "excavated": "武汉江夏湖泗瓷窑址群",
+ "material": "青白瓷",
+ "technique": "模印、堆贴、刻划",
+ "dimensions": "长约20—30厘米",
+ "description": "瓷枕面塑人物弈棋场景，青白釉温润，是湖泗窑陈设与日用兼具的精品，亦为研究宋代市井生活的珍贵图像资料。",
+ "image": "static/images/husig_pillow.jpg",
+ "image_credit": "Wikimedia Commons CC BY-SA 4.0（武汉湖泗窑址群出土文物展）",
+ "kiln": {
+  "id": 5,
+  "name": "湖泗瓷窑址群",
+  "alias": "湖泗窑·武昌窑",
+  "category": "古瓷窑址·国保",
+  "image": "static/images/husig_bowls.jpg"
+ },
+ "sources": [
+  {
+   "id": 6,
+   "title": "（文化中国行）武汉“湖泗瓷窑址群”：窑火曾映照古代民生百态",
+   "publisher": "中国新闻网/新华网湖北",
+   "date": "2026-07-03",
+   "url": "http://www.hubei.xinhua.org/20260703/b848bd040d5142c39e85fda272784e44/c.html"
+  },
+  {
+   "id": 20,
+   "title": "Wikimedia Commons：湖北省博物馆楚文化展/湖泗窑址群出土文物展图片（CC0/CC BY-SA 4.0）",
+   "publisher": "Wikimedia Commons",
+   "date": "2026-08",
+   "url": "https://commons.wikimedia.org/"
+  }
+ ]
+}

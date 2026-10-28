@@ -1,0 +1,40 @@
+{
+ "id": 47,
+ "name": "马口窑“状元打马游街坛”",
+ "alias": "状元游街坛",
+ "type": "陈设·民俗题材",
+ "dynasty": "清代—民国",
+ "period": "明清以来",
+ "kiln_id": 2,
+ "museum": "民间收藏",
+ "excavated": "汉川马口窑产区",
+ "material": "陶胎，黄褐釉",
+ "technique": "刻花、剔花",
+ "dimensions": "坛高约30—45厘米",
+ "description": "坛身以剔地阳纹表现状元及第、打马游街的喜庆场面，人物与仪仗层次分明，与八仙坛、十八学士坛同属马口窑民俗叙事系列。",
+ "image": "static/images/makou_zhuangyuan.jpg",
+ "image_credit": "人民网云南频道《在荆楚大地寻民间瑰宝》田野调查配图",
+ "kiln": {
+  "id": 2,
+  "name": "汉川马口窑",
+  "alias": "马口陶·中国民陶",
+  "category": "民窑·非遗",
+  "image": "static/images/makou_display.jpg"
+ },
+ "sources": [
+  {
+   "id": 24,
+   "title": "在荆楚大地寻民间瑰宝（湖北民间陶瓷田野调查）",
+   "publisher": "人民网云南频道",
+   "date": "2021-01-26",
+   "url": "http://yn.people.com.cn/BIG5/n2/2021/0126/c372458-34547598.html"
+  },
+  {
+   "id": 4,
+   "title": "湖北制陶业萧条：传承百年楚陶如今隐入地摊（组图）",
+   "publisher": "楚天金报/荆楚网",
+   "date": "2014-10-26",
+   "url": "http://news.cnhubei.com/xw/wh/201410/t3080199_2.shtml"
+  }
+ ]
+}

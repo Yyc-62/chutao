@@ -1,0 +1,195 @@
+{
+ "id": 2,
+ "name": "汉川马口窑",
+ "alias": "马口陶·中国民陶",
+ "category": "民窑·非遗",
+ "province": "湖北省",
+ "city": "孝感市汉川市",
+ "district": "马口镇·马鞍乡（汉江之滨）",
+ "dynasty": "明代—现代",
+ "year_start": "明隆庆年间（1567—1572）",
+ "year_end": "2019年复烧至今",
+ "status": "古窑址为湖北省文物保护单位（2008）；马口陶器烧陶技艺为湖北省非遗（2011）",
+ "intro": "马口陶是中国民陶代表，窑口分布在湖北省汉川市马鞍乡一带。据《汉川县志》记载，马口窑诞生于1560—1570年间，鼎盛时期数百口窑分布于汉江之滨，形成“十里窑场不夜天”的盛况，曾有龙窑108座。产品随汉水行销江南、川贵、巴蜀、陇南，并随海上丝绸之路远销马来西亚、日本等地。2000年最后一口窑关闭，2008年古窑址列入湖北省重点文物保护单位，2019年黄龙湖马口陶文化传承基地在旧址复建并恢复柴烧。",
+ "features": "采用当地富含钾、钠、钙及铝硅酸盐的红黏土，经练泥、成型、上釉、釉下堆塑、剔花等程序制成。代表作“八仙坛”的刻花、划花技术（铁笔雕花）属湖北民间陶艺独创；鳝鱼黄釉色与黑地黄彩人物纹最具辨识度。陶坛、瓮、罐、缸、盆造型朴拙，耐腐蚀、防渗漏，储存腌菜不腐烂、不变味。",
+ "craft": "练泥—拉坯/印坯—修坯—施釉—釉下堆塑—剔花（铁笔雕花）—龙窑柴烧。",
+ "honors": "2010年央视《鉴宝》走进孝感，马口陶入选“十大民间宝物”；“八仙坛”曾被用作高校陶艺教材。",
+ "image": "static/images/makou_display.jpg",
+ "image_credit": "",
+ "representative_artifact_id": 50,
+ "representative_label": "武汉博物馆藏 · 2023年“窑火·江汉”特展展品",
+ "images": [
+  {
+   "src": "static/images/makou_display.jpg",
+   "credit": "黄龙湖马口陶文化传承基地陈列（新华网）"
+  },
+  {
+   "src": "static/images/makou_baxian.jpg",
+   "credit": "清代马口窑“八仙坛”（部分），荆楚网"
+  },
+  {
+   "src": "static/images/makou_tea_cup.jpg",
+   "credit": "马口陶文创茶盏（湖北日报）"
+  },
+  {
+   "src": "static/images/makou_base_gate.jpg",
+   "credit": "黄龙湖马口陶文化传承基地（湖北日报）"
+  },
+  {
+   "src": "static/images/makou_baxian_2.jpg",
+   "credit": "马口窑八仙坛（人民网云南频道田野调查）"
+  },
+  {
+   "src": "static/images/chutao_labazhu.jpg",
+   "credit": "湖北民间陶器拉坯（人民网云南频道田野调查）"
+  }
+ ],
+ "artifacts": [
+  {
+   "id": 18,
+   "name": "清代马口窑“八仙坛”（部分）",
+   "type": "陈设·婚嫁礼器",
+   "dynasty": "清代",
+   "image": "static/images/makou_baxian.jpg",
+   "period": "明末清初—民国",
+   "description": "马口窑代表作。坛身以铁笔快速刻划八仙人物故事，黑地黄彩对比鲜明，是婚嫁喜庆的成对礼品，曾被用作高校陶艺教材，堪称湖北民间陶艺独创。"
+  },
+  {
+   "id": 20,
+   "name": "马口窑·麻城窑烛台与筷篓",
+   "type": "日用器",
+   "dynasty": "清代—民国",
+   "image": "static/images/makou_caijiashan_life.jpg",
+   "period": "明清以来",
+   "description": "烛台、筷篓等生活杂器造型样式化，既美观又实用，是“楚陶即生活”的最佳注脚，展现了江汉平原民间的日常烟火。"
+  },
+  {
+   "id": 21,
+   "name": "马口陶文创茶盏",
+   "type": "当代文创",
+   "dynasty": "当代",
+   "image": "static/images/makou_tea_cup.jpg",
+   "period": "2019年至今",
+   "description": "将马口窑代表性剔花、堆塑工艺提炼后融入当代茶器设计，黑地金线描绘人物舟船，是“楚陶制作技艺”非遗活化与时尚化转型的代表作。"
+  },
+  {
+   "id": 33,
+   "name": "马口陶带盖罐",
+   "type": "日用器·当代",
+   "dynasty": "当代",
+   "image": "static/images/hlh_4.jpg",
+   "period": "2019年至今",
+   "description": "圆柱形带盖罐，施温润黄褐釉，罐身饰花卉卷草与回纹浮雕，是马口陶“再思考、再传承、再消费”理念下的复烧代表作。"
+  },
+  {
+   "id": 34,
+   "name": "马口陶花器",
+   "type": "当代陶艺·花器",
+   "dynasty": "当代",
+   "image": "static/images/hlh_5.jpg",
+   "period": "2019年至今",
+   "description": "瓶身呈暖黄至棕褐渐变，釉面斑驳富有窑变质感，将马口陶古法釉色融入当代家居陈设，是楚陶生活化的代表作品。"
+  },
+  {
+   "id": 35,
+   "name": "马口陶黑地凤鸟纹杯",
+   "type": "当代陶艺",
+   "dynasty": "当代",
+   "image": "static/images/hlh_6.jpg",
+   "period": "2019年至今",
+   "description": "敞口深腹杯身以黑釉为地，米黄彩刻划凤鸟展翅、缠枝花卉，构图饱满流畅，延续马口窑“铁笔雕花”的民间叙事传统。"
+  },
+  {
+   "id": 36,
+   "name": "马口窑“十八学士坛”",
+   "type": "陈设·婚嫁礼器",
+   "dynasty": "清代—民国",
+   "image": "static/images/makou_shibaxueshi.jpg",
+   "period": "明末清初—民国",
+   "description": "与“八仙坛”齐名的马口窑经典器，坛身分层刻划十八学士人物故事，人物、动物、植物各具变化，构图样式化程度高，是江汉平原婚嫁礼俗的符号性器物。"
+  },
+  {
+   "id": 37,
+   "name": "马口窑字谜坛",
+   "type": "陈设·日用器",
+   "dynasty": "清代",
+   "image": null,
+   "period": "道光年间",
+   "description": "楚陶把灯谜写进日用陶器：楚天金报藏家专访所载“八王面前一对瓜，一颗明珠在王家，二十三天下大雨，和尚口下吐泥巴”，谜底即“金玉满堂”；翔宇谜馆另藏清代马口窑字谜陶坛（高21.5厘米、重2.6公斤），上刻“四围不通风，十字在当中，把做田字猜，一窍也不通”，隐“亞”字。"
+  },
+  {
+   "id": 47,
+   "name": "马口窑“状元打马游街坛”",
+   "type": "陈设·民俗题材",
+   "dynasty": "清代—民国",
+   "image": "static/images/makou_zhuangyuan.jpg",
+   "period": "明清以来",
+   "description": "坛身以剔地阳纹表现状元及第、打马游街的喜庆场面，人物与仪仗层次分明，与八仙坛、十八学士坛同属马口窑民俗叙事系列。"
+  },
+  {
+   "id": 50,
+   "name": "马口窑“十八学士图罐”",
+   "type": "陈设·民俗叙事器",
+   "dynasty": "清代",
+   "image": "static/images/makou_shibaxueshi_guan_whm.jpg",
+   "period": "清—民国",
+   "description": "2023年4月武汉博物馆“窑火·江汉——马口窑陶器特展”官方展品，系画家刘敦义捐赠552件马口窑陶器之一。罐身以铁笔分层刻划十八学士人物故事，人物与场景生动传神，是马口窑民俗叙事与婚嫁礼俗最具识别度的经典样式之一。"
+  }
+ ],
+ "representative": {
+  "id": 50,
+  "name": "马口窑“十八学士图罐”",
+  "alias": "十八学士罐",
+  "type": "陈设·民俗叙事器",
+  "dynasty": "清代",
+  "period": "清—民国",
+  "museum": "武汉博物馆",
+  "image": "static/images/makou_shibaxueshi_guan_whm.jpg",
+  "image_credit": "武汉博物馆“窑火·江汉”特展（长江网供图）",
+  "description": "2023年4月武汉博物馆“窑火·江汉——马口窑陶器特展”官方展品，系画家刘敦义捐赠552件马口窑陶器之一。罐身以铁笔分层刻划十八学士人物故事，人物与场景生动传神，是马口窑民俗叙事与婚嫁礼俗最具识别度的经典样式之一。"
+ },
+ "sources": [
+  {
+   "id": 1,
+   "title": "汉川马口陶：楚陶文化新传承",
+   "publisher": "新华网湖北频道",
+   "date": "2024-02-02",
+   "url": "https://www.hb.news.cn/20240202/1c4537a95907469f9e9c52c360f22c60/c.html"
+  },
+  {
+   "id": 2,
+   "title": "马年话马｜马口窑火韵悠长",
+   "publisher": "新华社湖北频道",
+   "date": "2026-02-15",
+   "url": "http://www.hubei.xinhua.org/20260215/50dbcfd5cbe94301a49e3984f60f0629/c.html"
+  },
+  {
+   "id": 4,
+   "title": "湖北制陶业萧条：传承百年楚陶如今隐入地摊（组图）",
+   "publisher": "楚天金报/荆楚网",
+   "date": "2014-10-26",
+   "url": "http://news.cnhubei.com/xw/wh/201410/t3080199_2.shtml"
+  },
+  {
+   "id": 15,
+   "title": "非遗文化挖掘与现代潮流完美融合：楚陶制作技艺入选武昌区非遗",
+   "publisher": "极目新闻/楚天都市报",
+   "date": "2020-06-10",
+   "url": "https://baijiahao.baidu.com/s?id=1669112423182842763"
+  },
+  {
+   "id": 16,
+   "title": "楚风陶韵——马口窑陶器",
+   "publisher": "武汉博物馆",
+   "date": "2019",
+   "url": "http://www.whmuseum.com.cn/research/scipublish/fc4263a5db5f28ed6ed035f5e9b261ae"
+  },
+  {
+   "id": 17,
+   "title": "一件伴手礼——黄龙湖马口陶的前世今生",
+   "publisher": "荆楚网",
+   "date": "2021-04-12",
+   "url": "http://news.cnhubei.com/content/2021-04/12/content_13730598.html"
+  }
+ ]
+}

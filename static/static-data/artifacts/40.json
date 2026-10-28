@@ -1,0 +1,54 @@
+{
+ "id": 40,
+ "name": "麻城窑《玉莲挑水》刻花陶罐",
+ "alias": "戏曲故事陶罐",
+ "type": "陈设·日用器",
+ "dynasty": "清代—民国",
+ "period": "明清以来",
+ "kiln_id": 4,
+ "museum": "民间收藏",
+ "excavated": "麻城蔡家山窑产区",
+ "material": "七色土陶胎，三色釉",
+ "technique": "划花剔地阳纹、刮花阴纹",
+ "dimensions": "高23厘米，宽23厘米，口径8厘米",
+ "description": "罐身刻划民间戏曲《玉莲挑水》故事场景，挑水人物姿态生动，是蔡家山窑“以陶说戏”的典型作品，与《打金枝》陶罐并称窑口双璧。该窑1979年参加湖北陶瓷质量评比的产品被定为特级并获“湖北真陶”美誉，戏曲人物刻花罐是其最具识别度的产品门类。",
+ "image": "static/images/caijiashan_yulian.jpg",
+ "image_credit": "人民网云南频道《在荆楚大地寻民间瑰宝》田野调查配图",
+ "kiln": {
+  "id": 4,
+  "name": "麻城蔡家山窑",
+  "alias": "蔡家山古窑·湖北真陶",
+  "category": "民窑",
+  "image": "static/images/caijiashan_jar.jpg"
+ },
+ "sources": [
+  {
+   "id": 13,
+   "title": "蔡家山古窑（词条）",
+   "publisher": "百度百科",
+   "date": "2025-12",
+   "url": "https://baike.baidu.com/item/蔡家山古窑"
+  },
+  {
+   "id": 14,
+   "title": "中国古窑万里行（十一）湖北民窑麻城蔡家山窑",
+   "publisher": "瓷网",
+   "date": "2016-03-11",
+   "url": "http://zhongguociwang.com/show.aspx?id=13072&cid=315"
+  },
+  {
+   "id": 24,
+   "title": "在荆楚大地寻民间瑰宝（湖北民间陶瓷田野调查）",
+   "publisher": "人民网云南频道",
+   "date": "2021-01-26",
+   "url": "http://yn.people.com.cn/BIG5/n2/2021/0126/c372458-34547598.html"
+  },
+  {
+   "id": 31,
+   "title": "续写麻城百年名窑新篇章（蔡家山窑“湖北真陶”官方荣誉）",
+   "publisher": "澎湃新闻·政务（麻城市文化和旅游局）",
+   "date": "2020-01-18",
+   "url": "https://www.thepaper.cn/newsDetail_forward_5581794"
+  }
+ ]
+}

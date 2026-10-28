@@ -1,0 +1,117 @@
+{
+ "id": 5,
+ "name": "湖泗瓷窑址群",
+ "alias": "湖泗窑·武昌窑",
+ "category": "古瓷窑址·国保",
+ "province": "湖北省",
+ "city": "武汉市",
+ "district": "江夏区（梁子湖西岸、斧头湖周边、鲁湖西岸）",
+ "dynasty": "晚唐五代—元明",
+ "year_start": "907年",
+ "year_end": "1644年",
+ "status": "全国重点文物保护单位（2001）",
+ "intro": "湖泗瓷窑址群1974年于江夏夏祠村发现，分布跨8个街道50多个自然村，南北约40公里、东西约30公里，大小窑堆180余处，总面积50余万平方米。古陶瓷专家蔡路武认为，两宋时期湖北迎来了历史上本土唯一的自身烧造瓷器高潮，湖泗窑是湖北宋代制瓷规模最大的窑场，其产品销往省内及邻近省份，是宋代经济重心南移的实证。",
+ "features": "产品分青白瓷系（梁子湖沿岸）与青瓷系（斧头湖沿岸）两大类，以百姓日用器为主，有壶、罐、碗、盘、碟、瓶、枕、香炉等十余种。胎质细腻致密，呈灰或灰白色；纹饰以刻花、印花为主，兼有雕镂堆贴，题材有荷莲、菊花、蝴蝶、卷草纹、波浪纹等，风格简练飘逸。代表器物有青白瓷双鱼葵口碗、印花双渔小碗、青釉瓜棱执壶、奕棋瓷枕等。",
+ "craft": "龙窑/阶梯窑烧造，使用匣钵、垫饼；刻花、印花、堆贴装饰；青白釉与青釉两大釉系。",
+ "honors": "1981年列为湖北省文物保护单位；2001年6月列为第五批全国重点文物保护单位。",
+ "image": "static/images/husig_bowls.jpg",
+ "image_credit": "",
+ "representative_artifact_id": 26,
+ "representative_label": "武汉博物馆藏 · 出土于江夏湖泗窑址",
+ "images": [
+  {
+   "src": "static/images/husig_bowls.jpg",
+   "credit": "湖泗窑青白瓷双鱼葵口碗与印花双渔小碗（中新网）"
+  },
+  {
+   "src": "static/images/husig_pillow.jpg",
+   "credit": "湖泗窑青白釉奕棋瓷枕（Wikimedia Commons CC BY-SA 4.0）"
+  },
+  {
+   "src": "static/images/husig_kiln_model.jpg",
+   "credit": "湖泗窑窑炉复原模型（Wikimedia Commons CC BY-SA 4.0）"
+  },
+  {
+   "src": "static/images/husig_site.jpg",
+   "credit": "湖泗瓷窑址群下浮山湾窑址国保碑（中新网）"
+  },
+  {
+   "src": "static/images/husig_heap.jpg",
+   "credit": "江夏区博物馆湖泗窑堆积（中新网）"
+  },
+  {
+   "src": "static/images/husig_extra_2.jpg",
+   "credit": "湖泗窑柴窑烧造场景复原（Wikimedia Commons CC BY-SA 4.0）"
+  },
+  {
+   "src": "static/images/husig_extra_3.jpg",
+   "credit": "湖泗窑制瓷作坊场景复原（Wikimedia Commons CC BY-SA 4.0）"
+  }
+ ],
+ "artifacts": [
+  {
+   "id": 23,
+   "name": "湖泗窑青白瓷双鱼葵口碗",
+   "type": "瓷器·饮食器",
+   "dynasty": "宋代",
+   "image": "static/images/husig_bowls.jpg",
+   "period": "两宋",
+   "description": "敞口葵瓣，碗底双鱼造型突出，青白釉莹润似玉，是湖泗窑青白瓷系的代表性器物。"
+  },
+  {
+   "id": 24,
+   "name": "湖泗窑印花双渔小碗",
+   "type": "瓷器·饮食器",
+   "dynasty": "唐宋",
+   "image": "static/images/husig_bowls.jpg",
+   "period": "晚唐—两宋",
+   "description": "碗身刻满匀称花纹，碗底双鱼畅游于微波，纹饰采用印花工艺，风格生动，为湖泗窑“民用而雅”的代表。"
+  },
+  {
+   "id": 25,
+   "name": "湖泗窑青白釉奕棋瓷枕",
+   "type": "瓷器·寝具",
+   "dynasty": "宋代",
+   "image": "static/images/husig_pillow.jpg",
+   "period": "两宋",
+   "description": "瓷枕面塑人物弈棋场景，青白釉温润，是湖泗窑陈设与日用兼具的精品，亦为研究宋代市井生活的珍贵图像资料。"
+  },
+  {
+   "id": 26,
+   "name": "湖泗窑青釉瓜棱执壶",
+   "type": "瓷器·酒器",
+   "dynasty": "宋代",
+   "image": "static/images/husig_gualeng_zhihu.jpg",
+   "period": "两宋",
+   "description": "撇口、长颈、瓜棱腹，配扁带执柄与微曲直流，通体青釉含蓄典雅。高21.5厘米、口径7.2厘米、底径7.4厘米，出土于江夏区湖泗窑址，现藏武汉博物馆，是江夏区博物馆“湖泗风华”专题展的代表性展品。"
+  }
+ ],
+ "representative": {
+  "id": 26,
+  "name": "湖泗窑青釉瓜棱执壶",
+  "alias": "瓜棱执壶",
+  "type": "瓷器·酒器",
+  "dynasty": "宋代",
+  "period": "两宋",
+  "museum": "武汉博物馆（出土于江夏区湖泗窑址）",
+  "image": "static/images/husig_gualeng_zhihu.jpg",
+  "image_credit": "武汉博物馆藏（人民美术网）",
+  "description": "撇口、长颈、瓜棱腹，配扁带执柄与微曲直流，通体青釉含蓄典雅。高21.5厘米、口径7.2厘米、底径7.4厘米，出土于江夏区湖泗窑址，现藏武汉博物馆，是江夏区博物馆“湖泗风华”专题展的代表性展品。"
+ },
+ "sources": [
+  {
+   "id": 6,
+   "title": "（文化中国行）武汉“湖泗瓷窑址群”：窑火曾映照古代民生百态",
+   "publisher": "中国新闻网/新华网湖北",
+   "date": "2026-07-03",
+   "url": "http://www.hubei.xinhua.org/20260703/b848bd040d5142c39e85fda272784e44/c.html"
+  },
+  {
+   "id": 5,
+   "title": "首部展示楚地近七千年陶瓷发展史的丛书编纂完成",
+   "publisher": "中国新闻网",
+   "date": "2014-12-08",
+   "url": "https://www.chinanews.com.cn/cul/2014/12-08/6854672.shtml"
+  }
+ ]
+}

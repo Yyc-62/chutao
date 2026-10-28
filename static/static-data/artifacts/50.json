@@ -1,0 +1,40 @@
+{
+ "id": 50,
+ "name": "马口窑“十八学士图罐”",
+ "alias": "十八学士罐",
+ "type": "陈设·民俗叙事器",
+ "dynasty": "清代",
+ "period": "清—民国",
+ "kiln_id": 2,
+ "museum": "武汉博物馆",
+ "excavated": "汉川马口窑产区（刘敦义旧藏捐赠）",
+ "material": "红黏土陶胎，黑地黄彩",
+ "technique": "刻花、划花（铁笔雕花）、釉下堆塑",
+ "dimensions": "馆藏展品（武汉博物馆“窑火·江汉”特展）",
+ "description": "2023年4月武汉博物馆“窑火·江汉——马口窑陶器特展”官方展品，系画家刘敦义捐赠552件马口窑陶器之一。罐身以铁笔分层刻划十八学士人物故事，人物与场景生动传神，是马口窑民俗叙事与婚嫁礼俗最具识别度的经典样式之一。",
+ "image": "static/images/makou_shibaxueshi_guan_whm.jpg",
+ "image_credit": "武汉博物馆“窑火·江汉”特展（长江网供图）",
+ "kiln": {
+  "id": 2,
+  "name": "汉川马口窑",
+  "alias": "马口陶·中国民陶",
+  "category": "民窑·非遗",
+  "image": "static/images/makou_display.jpg"
+ },
+ "sources": [
+  {
+   "id": 16,
+   "title": "楚风陶韵——马口窑陶器",
+   "publisher": "武汉博物馆",
+   "date": "2019",
+   "url": "http://www.whmuseum.com.cn/research/scipublish/fc4263a5db5f28ed6ed035f5e9b261ae"
+  },
+  {
+   "id": 30,
+   "title": "独属于楚地民间浪漫的马口窑在武汉博物馆专题展出",
+   "publisher": "长江网",
+   "date": "2023-04-25",
+   "url": "http://news.cjn.cn/bsy/wl_20088/202304/t4537699.htm"
+  }
+ ]
+}

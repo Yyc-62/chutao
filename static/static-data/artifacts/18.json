@@ -1,0 +1,40 @@
+{
+ "id": 18,
+ "name": "清代马口窑“八仙坛”（部分）",
+ "alias": "八仙坛",
+ "type": "陈设·婚嫁礼器",
+ "dynasty": "清代",
+ "period": "明末清初—民国",
+ "kiln_id": 2,
+ "museum": "民间收藏",
+ "excavated": "汉川马口窑产区",
+ "material": "红黏土陶胎，黑地黄彩",
+ "technique": "刻花、划花（铁笔雕花）、釉下堆塑",
+ "dimensions": "坛高约30—50厘米",
+ "description": "马口窑代表作。坛身以铁笔快速刻划八仙人物故事，黑地黄彩对比鲜明，是婚嫁喜庆的成对礼品，曾被用作高校陶艺教材，堪称湖北民间陶艺独创。",
+ "image": "static/images/makou_baxian.jpg",
+ "image_credit": "荆楚网/楚天金报（收藏家藏品）",
+ "kiln": {
+  "id": 2,
+  "name": "汉川马口窑",
+  "alias": "马口陶·中国民陶",
+  "category": "民窑·非遗",
+  "image": "static/images/makou_display.jpg"
+ },
+ "sources": [
+  {
+   "id": 4,
+   "title": "湖北制陶业萧条：传承百年楚陶如今隐入地摊（组图）",
+   "publisher": "楚天金报/荆楚网",
+   "date": "2014-10-26",
+   "url": "http://news.cnhubei.com/xw/wh/201410/t3080199_2.shtml"
+  },
+  {
+   "id": 1,
+   "title": "汉川马口陶：楚陶文化新传承",
+   "publisher": "新华网湖北频道",
+   "date": "2024-02-02",
+   "url": "https://www.hb.news.cn/20240202/1c4537a95907469f9e9c52c360f22c60/c.html"
+  }
+ ]
+}

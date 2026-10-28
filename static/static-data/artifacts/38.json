@@ -1,0 +1,40 @@
+{
+ "id": 38,
+ "name": "麻城窑双底青蛙炉",
+ "alias": "双底炉",
+ "type": "陈设·香炉",
+ "dynasty": "清代—民国",
+ "period": "明清以来",
+ "kiln_id": 4,
+ "museum": "民间收藏",
+ "excavated": "麻城蔡家山窑产区",
+ "material": "七色土陶胎，三色釉",
+ "technique": "拉坯、刻划花、施釉",
+ "dimensions": "高约15—25厘米",
+ "description": "蔡家山窑代表性陈设器，双底设计别致，炉身刻划花鸟纹样，红黄黑三色釉在烧制中衍生丰富变化，曾在广交会上受到外商关注。",
+ "image": null,
+ "image_credit": "资料图暂缺（百度百科“蔡家山古窑”）",
+ "kiln": {
+  "id": 4,
+  "name": "麻城蔡家山窑",
+  "alias": "蔡家山古窑·湖北真陶",
+  "category": "民窑",
+  "image": "static/images/caijiashan_jar.jpg"
+ },
+ "sources": [
+  {
+   "id": 13,
+   "title": "蔡家山古窑（词条）",
+   "publisher": "百度百科",
+   "date": "2025-12",
+   "url": "https://baike.baidu.com/item/蔡家山古窑"
+  },
+  {
+   "id": 14,
+   "title": "中国古窑万里行（十一）湖北民窑麻城蔡家山窑",
+   "publisher": "瓷网",
+   "date": "2016-03-11",
+   "url": "http://zhongguociwang.com/show.aspx?id=13072&cid=315"
+  }
+ ]
+}

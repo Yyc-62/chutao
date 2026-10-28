@@ -1,0 +1,511 @@
+[
+ {
+  "id": 1,
+  "name": "纪南城制陶作坊遗址",
+  "alias": "楚都窑址群·郢都陶窑",
+  "category": "古窑址·东周",
+  "province": "湖北省",
+  "city": "荆州市",
+  "district": "荆州区纪南镇",
+  "dynasty": "东周（春秋战国）",
+  "year_start": "公元前689年",
+  "year_end": "公元前278年",
+  "status": "全国重点文物保护单位（楚纪南故城）",
+  "intro": "楚国都城纪南城（郢都）内外发现成排的制陶作坊区与窑址，城内保存大量灰坑、建筑遗迹、四百余口水井与成排窑址。已清理发掘的十余座窑址中，有全长8.5米、宽3.5米、残深2.5米的大型窑，也有火膛高于窑床、窑床高于火膛的各种中小型窑，形制已接近后世民间陶窑。",
+  "features": "产品覆盖建筑材料（筒瓦、板瓦、瓦当、井圈、空心砖、水管）、生产工具（纺轮、网坠、陶垫、陶拍、陶刷）与生活用器（炊器、盛器、水器、储藏器），以及仿铜礼器和祭祀用品。陶鼎、陶釜、陶鬲、陶甑、陶豆、陶瓮等器型庄重俊雅，纹饰精美多样，陶坯普遍采用轮制和模制。",
+  "craft": "轮制、模制结合，产品系列化、作坊化生产；窑炉已有大型龙窑雏形。",
+  "honors": "纪南故城1961年公布为全国重点文物保护单位；城址内制陶作坊区是研究楚文化手工业的标尺。",
+  "image": "static/images/ws_ding.jpg",
+  "image_credit": "",
+  "representative_artifact_id": 17,
+  "representative_label": "湖北省博物馆藏 · 楚纪南故城出土",
+  "images": [
+   {
+    "src": "static/images/ws_ding.jpg",
+    "credit": "战国陶鼎（湖北省博物馆藏，Wikimedia Commons CC0）"
+   },
+   {
+    "src": "static/images/ws_tile.jpg",
+    "credit": "战国筒瓦（湖北省博物馆藏，Wikimedia Commons CC0）"
+   },
+   {
+    "src": "static/images/ws_drain.jpg",
+    "credit": "战国陶水管（湖北省博物馆藏，Wikimedia Commons CC0）"
+   }
+  ],
+  "representative": {
+   "id": 17,
+   "name": "战国陶水管",
+   "alias": "排水管道",
+   "type": "建材·市政设施",
+   "dynasty": "战国",
+   "period": "公元前475—前221年",
+   "museum": "湖北省博物馆",
+   "image": "static/images/ws_drain.jpg",
+   "image_credit": "湖北省博物馆藏（Wikimedia Commons CC0）",
+   "description": "陶质排水管道可逐节套接，构成城市排水系统，是楚国都城规划与公共工程的实物证据。"
+  },
+  "sources": [
+   {
+    "id": 3,
+    "title": "即将消失的职业之（七）楚陶传承人",
+    "publisher": "中国文艺网（《中国艺术报》）",
+    "date": "2015-05-05",
+    "url": "https://cflac.org.cn/wywzt/2015/xiaoshidezhiye/201505/t20150505_294053.html"
+   },
+   {
+    "id": 19,
+    "title": "荆州纪南城发现一批东周窑址",
+    "publisher": "雅昌艺术网",
+    "date": "2014-02-17",
+    "url": "https://news.artron.net/20140217/n567799_.html"
+   },
+   {
+    "id": 20,
+    "title": "Wikimedia Commons：湖北省博物馆楚文化展/湖泗窑址群出土文物展图片（CC0/CC BY-SA 4.0）",
+    "publisher": "Wikimedia Commons",
+    "date": "2026-08",
+    "url": "https://commons.wikimedia.org/"
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "name": "汉川马口窑",
+  "alias": "马口陶·中国民陶",
+  "category": "民窑·非遗",
+  "province": "湖北省",
+  "city": "孝感市汉川市",
+  "district": "马口镇·马鞍乡（汉江之滨）",
+  "dynasty": "明代—现代",
+  "year_start": "明隆庆年间（1567—1572）",
+  "year_end": "2019年复烧至今",
+  "status": "古窑址为湖北省文物保护单位（2008）；马口陶器烧陶技艺为湖北省非遗（2011）",
+  "intro": "马口陶是中国民陶代表，窑口分布在湖北省汉川市马鞍乡一带。据《汉川县志》记载，马口窑诞生于1560—1570年间，鼎盛时期数百口窑分布于汉江之滨，形成“十里窑场不夜天”的盛况，曾有龙窑108座。产品随汉水行销江南、川贵、巴蜀、陇南，并随海上丝绸之路远销马来西亚、日本等地。2000年最后一口窑关闭，2008年古窑址列入湖北省重点文物保护单位，2019年黄龙湖马口陶文化传承基地在旧址复建并恢复柴烧。",
+  "features": "采用当地富含钾、钠、钙及铝硅酸盐的红黏土，经练泥、成型、上釉、釉下堆塑、剔花等程序制成。代表作“八仙坛”的刻花、划花技术（铁笔雕花）属湖北民间陶艺独创；鳝鱼黄釉色与黑地黄彩人物纹最具辨识度。陶坛、瓮、罐、缸、盆造型朴拙，耐腐蚀、防渗漏，储存腌菜不腐烂、不变味。",
+  "craft": "练泥—拉坯/印坯—修坯—施釉—釉下堆塑—剔花（铁笔雕花）—龙窑柴烧。",
+  "honors": "2010年央视《鉴宝》走进孝感，马口陶入选“十大民间宝物”；“八仙坛”曾被用作高校陶艺教材。",
+  "image": "static/images/makou_display.jpg",
+  "image_credit": "",
+  "representative_artifact_id": 50,
+  "representative_label": "武汉博物馆藏 · 2023年“窑火·江汉”特展展品",
+  "images": [
+   {
+    "src": "static/images/makou_display.jpg",
+    "credit": "黄龙湖马口陶文化传承基地陈列（新华网）"
+   },
+   {
+    "src": "static/images/makou_baxian.jpg",
+    "credit": "清代马口窑“八仙坛”（部分），荆楚网"
+   },
+   {
+    "src": "static/images/makou_tea_cup.jpg",
+    "credit": "马口陶文创茶盏（湖北日报）"
+   },
+   {
+    "src": "static/images/makou_base_gate.jpg",
+    "credit": "黄龙湖马口陶文化传承基地（湖北日报）"
+   },
+   {
+    "src": "static/images/makou_baxian_2.jpg",
+    "credit": "马口窑八仙坛（人民网云南频道田野调查）"
+   },
+   {
+    "src": "static/images/chutao_labazhu.jpg",
+    "credit": "湖北民间陶器拉坯（人民网云南频道田野调查）"
+   }
+  ],
+  "representative": {
+   "id": 50,
+   "name": "马口窑“十八学士图罐”",
+   "alias": "十八学士罐",
+   "type": "陈设·民俗叙事器",
+   "dynasty": "清代",
+   "period": "清—民国",
+   "museum": "武汉博物馆",
+   "image": "static/images/makou_shibaxueshi_guan_whm.jpg",
+   "image_credit": "武汉博物馆“窑火·江汉”特展（长江网供图）",
+   "description": "2023年4月武汉博物馆“窑火·江汉——马口窑陶器特展”官方展品，系画家刘敦义捐赠552件马口窑陶器之一。罐身以铁笔分层刻划十八学士人物故事，人物与场景生动传神，是马口窑民俗叙事与婚嫁礼俗最具识别度的经典样式之一。"
+  },
+  "sources": [
+   {
+    "id": 1,
+    "title": "汉川马口陶：楚陶文化新传承",
+    "publisher": "新华网湖北频道",
+    "date": "2024-02-02",
+    "url": "https://www.hb.news.cn/20240202/1c4537a95907469f9e9c52c360f22c60/c.html"
+   },
+   {
+    "id": 2,
+    "title": "马年话马｜马口窑火韵悠长",
+    "publisher": "新华社湖北频道",
+    "date": "2026-02-15",
+    "url": "http://www.hubei.xinhua.org/20260215/50dbcfd5cbe94301a49e3984f60f0629/c.html"
+   },
+   {
+    "id": 4,
+    "title": "湖北制陶业萧条：传承百年楚陶如今隐入地摊（组图）",
+    "publisher": "楚天金报/荆楚网",
+    "date": "2014-10-26",
+    "url": "http://news.cnhubei.com/xw/wh/201410/t3080199_2.shtml"
+   },
+   {
+    "id": 15,
+    "title": "非遗文化挖掘与现代潮流完美融合：楚陶制作技艺入选武昌区非遗",
+    "publisher": "极目新闻/楚天都市报",
+    "date": "2020-06-10",
+    "url": "https://baijiahao.baidu.com/s?id=1669112423182842763"
+   },
+   {
+    "id": 16,
+    "title": "楚风陶韵——马口窑陶器",
+    "publisher": "武汉博物馆",
+    "date": "2019",
+    "url": "http://www.whmuseum.com.cn/research/scipublish/fc4263a5db5f28ed6ed035f5e9b261ae"
+   },
+   {
+    "id": 17,
+    "title": "一件伴手礼——黄龙湖马口陶的前世今生",
+    "publisher": "荆楚网",
+    "date": "2021-04-12",
+    "url": "http://news.cnhubei.com/content/2021-04/12/content_13730598.html"
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "name": "蕲春管窑",
+  "alias": "管窑陶器·窑州",
+  "category": "民窑·地理标志",
+  "province": "湖北省",
+  "city": "黄冈市蕲春县",
+  "district": "管窑镇（长江北岸赤西湖畔）",
+  "dynasty": "明代—现代",
+  "year_start": "明洪武二年（1369）",
+  "year_end": "至今仍在烧制",
+  "status": "管窑陶器为国家地理标志保护产品（2017）；蕲春管窑手工制陶技艺为省级非遗",
+  "intro": "管窑镇素有“窑州”之美称，制陶史可追溯至宋代。明洪武二年（1369年）建窑，现存明清龙窑7座，其中李家窑长98米、宽8米、平均内径1.8米，是湖北省唯一尚存且保存最完整的古龙窑，最多同时烧陶3万件。鼎盛时期产业工人达6万余人，产品经长江水道销至国内16个省市74个地区及海外6国。",
+  "features": "以本地特有的黄、白胶泥为原料，延续手工拉坯、皮千画花、土龙窑烧制等十六道工序。器形古朴厚重、刻划简洁生动、釉色流光溢彩；刻划工艺吸收民间剪纸与国画风格，题材以花鸟鱼虫为主，尤以“喜鹊闹梅”“鲤鱼穿莲”“鹭鸶采莲”最具代表性；木叶盏以桑叶入釉，为近年复烧代表作品。",
+  "craft": "练泥—手工拉坯—皮千画花—剔花—施釉—土龙窑柴烧（16道工序）。",
+  "honors": "2007年蕲春管窑手工制陶技艺列入省级非遗保护项目；2017年获批国家地理标志保护产品。",
+  "image": "static/images/guanyao_dragon_kiln.jpg",
+  "image_credit": "",
+  "representative_artifact_id": 44,
+  "representative_label": "官方特许 · 2022北京冬奥会特许商品",
+  "images": [
+   {
+    "src": "static/images/guanyao_dragon_kiln.jpg",
+    "credit": "管窑镇李家窑古龙窑内景（中国网/国际在线，白永光摄）"
+   },
+   {
+    "src": "static/images/guanyao_labazhu.jpg",
+    "credit": "管窑手工拉坯场景（湖北日报）"
+   },
+   {
+    "src": "static/images/guanyao_works.jpg",
+    "credit": "管窑柴烧陶器作品（湖北日报）"
+   },
+   {
+    "src": "static/images/guanyao_wall.jpg",
+    "credit": "李家窑碎瓷拼贴墙（网易号“艾都光影”）"
+   },
+   {
+    "src": "static/images/gy_2025_7.jpg",
+    "credit": "管窑陶艺师拉坯特写（湖北日报）"
+   },
+   {
+    "src": "static/images/gy_163_2.jpg",
+    "credit": "管窑采泥劳作（网易号“艾都光影”）"
+   }
+  ],
+  "representative": {
+   "id": 44,
+   "name": "管窑木叶盏",
+   "alias": "桑叶入釉",
+   "type": "当代陶艺",
+   "dynasty": "当代",
+   "period": "近年复烧",
+   "museum": "管窑镇李家窑",
+   "image": "static/images/guanyao_muyezhan.jpg",
+   "image_credit": "蕲春网（管窑木叶盏）",
+   "description": "木叶盏取天然树叶置入黑釉盏中烧制，叶脉纹理随窑变定格于盏心。2022年北京冬奥会特许商品由湖北省工艺美术大师何登明制作，口径约12厘米、高约4.5厘米，盏底刻冬奥会徽，是管窑手工制陶技艺走向世界的代表作。"
+  },
+  "sources": [
+   {
+    "id": 7,
+    "title": "管窑陶器（国家地理标志产品介绍）",
+    "publisher": "蕲春县人民政府",
+    "date": "2016-11-28",
+    "url": "http://www.qichun.gov.cn/zgad/cyqc/qctc/11485771.html"
+   },
+   {
+    "id": 8,
+    "title": "管窑陶瓷：传承千年的文化",
+    "publisher": "经济参考报（新华通讯社）",
+    "date": "2017-11-08",
+    "url": "http://dz.jjckb.cn/www/pages/webpage2009/html/2017-11/08/content_37740.htm"
+   },
+   {
+    "id": 9,
+    "title": "守得住古法传统 跟得上时兴潮流 蕲春千年楚窑再现熊熊炉火",
+    "publisher": "湖北日报/荆楚网",
+    "date": "2023-05-07",
+    "url": "http://xczx.cnhubei.com/whzx/202305/t4616171.shtml"
+   },
+   {
+    "id": 10,
+    "title": "陶瓷博士以文创炉火重燃千年龙窑",
+    "publisher": "湖北日报",
+    "date": "2025-08-25",
+    "url": "https://epaper.hubeidaily.net/pad/content/202508/25/content_324112.html"
+   },
+   {
+    "id": 11,
+    "title": "图文：蕲春管窑 600年不熄的窑火",
+    "publisher": "人民网",
+    "date": "2012-12-08",
+    "url": "http://www.people.com.cn/24hour/n/2012/1208/c25408-19832175.html"
+   },
+   {
+    "id": 12,
+    "title": "湖北蕲春县管窑镇：制陶小镇焕发新生机",
+    "publisher": "中国网",
+    "date": "2017-06-05",
+    "url": "http://news1.china.com.cn/2017-06/05/content_40968625_4.htm"
+   },
+   {
+    "id": 18,
+    "title": "看千年龙窑开火烧窑",
+    "publisher": "荆楚网",
+    "date": "2019-09-25",
+    "url": "http://www.cnhubei.com/huanggang/p/12365450.html"
+   },
+   {
+    "id": 22,
+    "title": "蕲春管窑手工制陶技艺（省级非遗项目）",
+    "publisher": "湖北省文化和旅游厅",
+    "date": "2017-11-28",
+    "url": "http://wlt.hubei.gov.cn/hbsfwzwhycw/wszt/ctjy/202005/t20200519_2278219.shtml"
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "name": "麻城蔡家山窑",
+  "alias": "蔡家山古窑·湖北真陶",
+  "category": "民窑",
+  "province": "湖北省",
+  "city": "黄冈市麻城市",
+  "district": "歧亭镇西北10公里",
+  "dynasty": "宋代（传）—现代",
+  "year_start": "宋代（传）",
+  "year_end": "20世纪80年代后停产",
+  "status": "已停产；窑址尚存",
+  "intro": "蔡家山古窑位于湖北省麻城市歧亭镇西北10公里处，据传为宋代蔡姓人所建，明崇祯年间的碾土石辊证实明代已有生产规模，明末清初产品曾远销东南亚诸国。该窑与汉川马口窑、蕲春管窑并称“湖北三大民窑”。当地“七色土”可塑性强、烧结不变形；20世纪80年代初产品曾在亚非拉多国展销，后被轻工部授予“湖北真陶”称号。",
+  "features": "以红、黄、黑三色釉（铅与陶土配制）为特色，烧成后附着力强、永不脱落，釉色温润古朴。装饰采取划花剔地阳纹为主、刮花阴纹作衬的刻陶手法，主次分明，并借鉴剪纸艺术，纹饰多取牡丹、梅花喜鹊、莲花鲤鱼等吉祥题材。代表作有双底青蛙炉、四季花鸟坛及《玉莲挑水》《打金枝》刻花陶罐。",
+  "craft": "七色土制坯—拉坯—刻划花（阳纹/阴纹）—三色釉—大龙窑柴烧。",
+  "honors": "1979年湖北陶瓷质量评比特级产品；80年代全国轻工窑品博览会获“湖北真陶”称号。",
+  "image": "static/images/caijiashan_jar.jpg",
+  "image_credit": "",
+  "representative_artifact_id": 40,
+  "representative_label": "官方荣誉 · “湖北真陶”（1979陶评特级产品）",
+  "images": [
+   {
+    "src": "static/images/caijiashan_jar.jpg",
+    "credit": "精美的麻城窑小罐（荆楚网）"
+   },
+   {
+    "src": "static/images/makou_caijiashan_life.jpg",
+    "credit": "马口窑和麻城窑的烛台、筷篓（荆楚网）"
+   },
+   {
+    "src": "static/images/caijiashan_site.jpg",
+    "credit": "蔡家山窑废弃窑址（瓷网“古窑万里行”）"
+   },
+   {
+    "src": "static/images/chutao_longyao.jpg",
+    "credit": "湖北民窑龙窑（人民网云南频道田野调查）"
+   },
+   {
+    "src": "static/images/chutao_kehuahua_tewrite.jpg",
+    "credit": "刻划花陶器特写（人民网云南频道田野调查）"
+   }
+  ],
+  "representative": {
+   "id": 40,
+   "name": "麻城窑《玉莲挑水》刻花陶罐",
+   "alias": "戏曲故事陶罐",
+   "type": "陈设·日用器",
+   "dynasty": "清代—民国",
+   "period": "明清以来",
+   "museum": "民间收藏",
+   "image": "static/images/caijiashan_yulian.jpg",
+   "image_credit": "人民网云南频道《在荆楚大地寻民间瑰宝》田野调查配图",
+   "description": "罐身刻划民间戏曲《玉莲挑水》故事场景，挑水人物姿态生动，是蔡家山窑“以陶说戏”的典型作品，与《打金枝》陶罐并称窑口双璧。该窑1979年参加湖北陶瓷质量评比的产品被定为特级并获“湖北真陶”美誉，戏曲人物刻花罐是其最具识别度的产品门类。"
+  },
+  "sources": [
+   {
+    "id": 13,
+    "title": "蔡家山古窑（词条）",
+    "publisher": "百度百科",
+    "date": "2025-12",
+    "url": "https://baike.baidu.com/item/蔡家山古窑"
+   },
+   {
+    "id": 14,
+    "title": "中国古窑万里行（十一）湖北民窑麻城蔡家山窑",
+    "publisher": "瓷网",
+    "date": "2016-03-11",
+    "url": "http://zhongguociwang.com/show.aspx?id=13072&cid=315"
+   },
+   {
+    "id": 4,
+    "title": "湖北制陶业萧条：传承百年楚陶如今隐入地摊（组图）",
+    "publisher": "楚天金报/荆楚网",
+    "date": "2014-10-26",
+    "url": "http://news.cnhubei.com/xw/wh/201410/t3080199_2.shtml"
+   },
+   {
+    "id": 28,
+    "title": "探秘：麻城蔡家山窑的千年传奇",
+    "publisher": "澎湃新闻",
+    "date": "2019-07-29",
+    "url": "https://www.thepaper.cn/newsDetail_forward_4054451"
+   },
+   {
+    "id": 31,
+    "title": "续写麻城百年名窑新篇章（蔡家山窑“湖北真陶”官方荣誉）",
+    "publisher": "澎湃新闻·政务（麻城市文化和旅游局）",
+    "date": "2020-01-18",
+    "url": "https://www.thepaper.cn/newsDetail_forward_5581794"
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "name": "湖泗瓷窑址群",
+  "alias": "湖泗窑·武昌窑",
+  "category": "古瓷窑址·国保",
+  "province": "湖北省",
+  "city": "武汉市",
+  "district": "江夏区（梁子湖西岸、斧头湖周边、鲁湖西岸）",
+  "dynasty": "晚唐五代—元明",
+  "year_start": "907年",
+  "year_end": "1644年",
+  "status": "全国重点文物保护单位（2001）",
+  "intro": "湖泗瓷窑址群1974年于江夏夏祠村发现，分布跨8个街道50多个自然村，南北约40公里、东西约30公里，大小窑堆180余处，总面积50余万平方米。古陶瓷专家蔡路武认为，两宋时期湖北迎来了历史上本土唯一的自身烧造瓷器高潮，湖泗窑是湖北宋代制瓷规模最大的窑场，其产品销往省内及邻近省份，是宋代经济重心南移的实证。",
+  "features": "产品分青白瓷系（梁子湖沿岸）与青瓷系（斧头湖沿岸）两大类，以百姓日用器为主，有壶、罐、碗、盘、碟、瓶、枕、香炉等十余种。胎质细腻致密，呈灰或灰白色；纹饰以刻花、印花为主，兼有雕镂堆贴，题材有荷莲、菊花、蝴蝶、卷草纹、波浪纹等，风格简练飘逸。代表器物有青白瓷双鱼葵口碗、印花双渔小碗、青釉瓜棱执壶、奕棋瓷枕等。",
+  "craft": "龙窑/阶梯窑烧造，使用匣钵、垫饼；刻花、印花、堆贴装饰；青白釉与青釉两大釉系。",
+  "honors": "1981年列为湖北省文物保护单位；2001年6月列为第五批全国重点文物保护单位。",
+  "image": "static/images/husig_bowls.jpg",
+  "image_credit": "",
+  "representative_artifact_id": 26,
+  "representative_label": "武汉博物馆藏 · 出土于江夏湖泗窑址",
+  "images": [
+   {
+    "src": "static/images/husig_bowls.jpg",
+    "credit": "湖泗窑青白瓷双鱼葵口碗与印花双渔小碗（中新网）"
+   },
+   {
+    "src": "static/images/husig_pillow.jpg",
+    "credit": "湖泗窑青白釉奕棋瓷枕（Wikimedia Commons CC BY-SA 4.0）"
+   },
+   {
+    "src": "static/images/husig_kiln_model.jpg",
+    "credit": "湖泗窑窑炉复原模型（Wikimedia Commons CC BY-SA 4.0）"
+   },
+   {
+    "src": "static/images/husig_site.jpg",
+    "credit": "湖泗瓷窑址群下浮山湾窑址国保碑（中新网）"
+   },
+   {
+    "src": "static/images/husig_heap.jpg",
+    "credit": "江夏区博物馆湖泗窑堆积（中新网）"
+   },
+   {
+    "src": "static/images/husig_extra_2.jpg",
+    "credit": "湖泗窑柴窑烧造场景复原（Wikimedia Commons CC BY-SA 4.0）"
+   },
+   {
+    "src": "static/images/husig_extra_3.jpg",
+    "credit": "湖泗窑制瓷作坊场景复原（Wikimedia Commons CC BY-SA 4.0）"
+   }
+  ],
+  "representative": {
+   "id": 26,
+   "name": "湖泗窑青釉瓜棱执壶",
+   "alias": "瓜棱执壶",
+   "type": "瓷器·酒器",
+   "dynasty": "宋代",
+   "period": "两宋",
+   "museum": "武汉博物馆（出土于江夏区湖泗窑址）",
+   "image": "static/images/husig_gualeng_zhihu.jpg",
+   "image_credit": "武汉博物馆藏（人民美术网）",
+   "description": "撇口、长颈、瓜棱腹，配扁带执柄与微曲直流，通体青釉含蓄典雅。高21.5厘米、口径7.2厘米、底径7.4厘米，出土于江夏区湖泗窑址，现藏武汉博物馆，是江夏区博物馆“湖泗风华”专题展的代表性展品。"
+  },
+  "sources": [
+   {
+    "id": 6,
+    "title": "（文化中国行）武汉“湖泗瓷窑址群”：窑火曾映照古代民生百态",
+    "publisher": "中国新闻网/新华网湖北",
+    "date": "2026-07-03",
+    "url": "http://www.hubei.xinhua.org/20260703/b848bd040d5142c39e85fda272784e44/c.html"
+   },
+   {
+    "id": 5,
+    "title": "首部展示楚地近七千年陶瓷发展史的丛书编纂完成",
+    "publisher": "中国新闻网",
+    "date": "2014-12-08",
+    "url": "https://www.chinanews.com.cn/cul/2014/12-08/6854672.shtml"
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "name": "鄂城窑·武昌窑",
+  "alias": "梁子湖早期青瓷窑群",
+  "category": "古瓷窑址",
+  "province": "湖北省",
+  "city": "鄂州市·武汉市",
+  "district": "梁子湖沿岸",
+  "dynasty": "三国吴—唐",
+  "year_start": "三国吴（222—280）",
+  "year_end": "唐代（618—907）",
+  "status": "历史窑群（文献记载）",
+  "intro": "据《湖北陶瓷》丛书研究，荆楚经历青铜时代后，自三国吴时起瓷器真正走上历史舞台，梁子湖沿岸的鄂城窑、武昌窑陆续烧制青瓷，晚唐至宋代达到高峰，为湖泗瓷窑址群的先声，也补上了湖北古代瓷器烧造的缺环。",
+  "features": "以青瓷为主，延续南方越窑系风格；产品多为日用青瓷，胎釉过渡期特征明显，是研究长江中游青瓷起源的重要环节。",
+  "craft": "龙窑烧造、青釉施挂；产品沿梁子湖—长江水道外销。",
+  "honors": "《湖北陶瓷》丛书收录鄂城窑、武昌窑等148处窑场。",
+  "image": "static/images/husig_kiln_model.jpg",
+  "image_credit": "",
+  "representative_artifact_id": 49,
+  "representative_label": "鄂州市博物馆藏 · 六朝鄂州青瓷代表",
+  "images": [
+   {
+    "src": "static/images/husig_kiln_model.jpg",
+    "credit": "湖泗窑窑炉复原模型（Wikimedia Commons CC BY-SA 4.0）"
+   }
+  ],
+  "representative": {
+   "id": 49,
+   "name": "三国吴青瓷虎子",
+   "alias": "青瓷虎形盛器",
+   "type": "瓷器·水器",
+   "dynasty": "三国吴—六朝",
+   "period": "222—589年",
+   "museum": "湖北省鄂州市博物馆",
+   "image": "static/images/ezhou_qingci_huzi.jpg",
+   "image_credit": "湖北省鄂州市博物馆藏（中华陶瓷网）",
+   "description": "虎子通体施青釉，均匀透亮，开细密纹片，口部饰张牙露齿的虎首，提梁与四足俱全，是六朝鄂州青瓷的代表性器形，见证鄂城窑早期青瓷的成熟。"
+  },
+  "sources": [
+   {
+    "id": 5,
+    "title": "首部展示楚地近七千年陶瓷发展史的丛书编纂完成",
+    "publisher": "中国新闻网",
+    "date": "2014-12-08",
+    "url": "https://www.chinanews.com.cn/cul/2014/12-08/6854672.shtml"
+   }
+  ]
+ }
+]

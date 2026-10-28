@@ -1,0 +1,47 @@
+{
+ "id": 36,
+ "name": "马口窑“十八学士坛”",
+ "alias": "十八学士坛",
+ "type": "陈设·婚嫁礼器",
+ "dynasty": "清代—民国",
+ "period": "明末清初—民国",
+ "kiln_id": 2,
+ "museum": "民间收藏",
+ "excavated": "汉川马口窑产区",
+ "material": "红黏土陶胎，黑地黄彩",
+ "technique": "刻花、划花、釉下堆塑",
+ "dimensions": "坛高约30—50厘米",
+ "description": "与“八仙坛”齐名的马口窑经典器，坛身分层刻划十八学士人物故事，人物、动物、植物各具变化，构图样式化程度高，是江汉平原婚嫁礼俗的符号性器物。",
+ "image": "static/images/makou_shibaxueshi.jpg",
+ "image_credit": "人民网云南频道《在荆楚大地寻民间瑰宝》田野调查配图",
+ "kiln": {
+  "id": 2,
+  "name": "汉川马口窑",
+  "alias": "马口陶·中国民陶",
+  "category": "民窑·非遗",
+  "image": "static/images/makou_display.jpg"
+ },
+ "sources": [
+  {
+   "id": 4,
+   "title": "湖北制陶业萧条：传承百年楚陶如今隐入地摊（组图）",
+   "publisher": "楚天金报/荆楚网",
+   "date": "2014-10-26",
+   "url": "http://news.cnhubei.com/xw/wh/201410/t3080199_2.shtml"
+  },
+  {
+   "id": 1,
+   "title": "汉川马口陶：楚陶文化新传承",
+   "publisher": "新华网湖北频道",
+   "date": "2024-02-02",
+   "url": "https://www.hb.news.cn/20240202/1c4537a95907469f9e9c52c360f22c60/c.html"
+  },
+  {
+   "id": 24,
+   "title": "在荆楚大地寻民间瑰宝（湖北民间陶瓷田野调查）",
+   "publisher": "人民网云南频道",
+   "date": "2021-01-26",
+   "url": "http://yn.people.com.cn/BIG5/n2/2021/0126/c372458-34547598.html"
+  }
+ ]
+}

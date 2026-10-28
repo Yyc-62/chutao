@@ -1,0 +1,137 @@
+{
+ "id": 3,
+ "name": "蕲春管窑",
+ "alias": "管窑陶器·窑州",
+ "category": "民窑·地理标志",
+ "province": "湖北省",
+ "city": "黄冈市蕲春县",
+ "district": "管窑镇（长江北岸赤西湖畔）",
+ "dynasty": "明代—现代",
+ "year_start": "明洪武二年（1369）",
+ "year_end": "至今仍在烧制",
+ "status": "管窑陶器为国家地理标志保护产品（2017）；蕲春管窑手工制陶技艺为省级非遗",
+ "intro": "管窑镇素有“窑州”之美称，制陶史可追溯至宋代。明洪武二年（1369年）建窑，现存明清龙窑7座，其中李家窑长98米、宽8米、平均内径1.8米，是湖北省唯一尚存且保存最完整的古龙窑，最多同时烧陶3万件。鼎盛时期产业工人达6万余人，产品经长江水道销至国内16个省市74个地区及海外6国。",
+ "features": "以本地特有的黄、白胶泥为原料，延续手工拉坯、皮千画花、土龙窑烧制等十六道工序。器形古朴厚重、刻划简洁生动、釉色流光溢彩；刻划工艺吸收民间剪纸与国画风格，题材以花鸟鱼虫为主，尤以“喜鹊闹梅”“鲤鱼穿莲”“鹭鸶采莲”最具代表性；木叶盏以桑叶入釉，为近年复烧代表作品。",
+ "craft": "练泥—手工拉坯—皮千画花—剔花—施釉—土龙窑柴烧（16道工序）。",
+ "honors": "2007年蕲春管窑手工制陶技艺列入省级非遗保护项目；2017年获批国家地理标志保护产品。",
+ "image": "static/images/guanyao_dragon_kiln.jpg",
+ "image_credit": "",
+ "representative_artifact_id": 44,
+ "representative_label": "官方特许 · 2022北京冬奥会特许商品",
+ "images": [
+  {
+   "src": "static/images/guanyao_dragon_kiln.jpg",
+   "credit": "管窑镇李家窑古龙窑内景（中国网/国际在线，白永光摄）"
+  },
+  {
+   "src": "static/images/guanyao_labazhu.jpg",
+   "credit": "管窑手工拉坯场景（湖北日报）"
+  },
+  {
+   "src": "static/images/guanyao_works.jpg",
+   "credit": "管窑柴烧陶器作品（湖北日报）"
+  },
+  {
+   "src": "static/images/guanyao_wall.jpg",
+   "credit": "李家窑碎瓷拼贴墙（网易号“艾都光影”）"
+  },
+  {
+   "src": "static/images/gy_2025_7.jpg",
+   "credit": "管窑陶艺师拉坯特写（湖北日报）"
+  },
+  {
+   "src": "static/images/gy_163_2.jpg",
+   "credit": "管窑采泥劳作（网易号“艾都光影”）"
+  }
+ ],
+ "artifacts": [
+  {
+   "id": 22,
+   "name": "管窑柴烧茶器",
+   "type": "当代陶艺",
+   "dynasty": "当代",
+   "image": "static/images/guanyao_works.jpg",
+   "period": "2021年至今",
+   "description": "2021年起管窑每年举办“千年龙窑柴烧艺术节”，柴烧陶器凭借古朴窑变与独特质感受到市场欢迎，千年龙窑以文创方式重燃窑火。"
+  },
+  {
+   "id": 44,
+   "name": "管窑木叶盏",
+   "type": "当代陶艺",
+   "dynasty": "当代",
+   "image": "static/images/guanyao_muyezhan.jpg",
+   "period": "近年复烧",
+   "description": "木叶盏取天然树叶置入黑釉盏中烧制，叶脉纹理随窑变定格于盏心。2022年北京冬奥会特许商品由湖北省工艺美术大师何登明制作，口径约12厘米、高约4.5厘米，盏底刻冬奥会徽，是管窑手工制陶技艺走向世界的代表作。"
+  }
+ ],
+ "representative": {
+  "id": 44,
+  "name": "管窑木叶盏",
+  "alias": "桑叶入釉",
+  "type": "当代陶艺",
+  "dynasty": "当代",
+  "period": "近年复烧",
+  "museum": "管窑镇李家窑",
+  "image": "static/images/guanyao_muyezhan.jpg",
+  "image_credit": "蕲春网（管窑木叶盏）",
+  "description": "木叶盏取天然树叶置入黑釉盏中烧制，叶脉纹理随窑变定格于盏心。2022年北京冬奥会特许商品由湖北省工艺美术大师何登明制作，口径约12厘米、高约4.5厘米，盏底刻冬奥会徽，是管窑手工制陶技艺走向世界的代表作。"
+ },
+ "sources": [
+  {
+   "id": 7,
+   "title": "管窑陶器（国家地理标志产品介绍）",
+   "publisher": "蕲春县人民政府",
+   "date": "2016-11-28",
+   "url": "http://www.qichun.gov.cn/zgad/cyqc/qctc/11485771.html"
+  },
+  {
+   "id": 8,
+   "title": "管窑陶瓷：传承千年的文化",
+   "publisher": "经济参考报（新华通讯社）",
+   "date": "2017-11-08",
+   "url": "http://dz.jjckb.cn/www/pages/webpage2009/html/2017-11/08/content_37740.htm"
+  },
+  {
+   "id": 9,
+   "title": "守得住古法传统 跟得上时兴潮流 蕲春千年楚窑再现熊熊炉火",
+   "publisher": "湖北日报/荆楚网",
+   "date": "2023-05-07",
+   "url": "http://xczx.cnhubei.com/whzx/202305/t4616171.shtml"
+  },
+  {
+   "id": 10,
+   "title": "陶瓷博士以文创炉火重燃千年龙窑",
+   "publisher": "湖北日报",
+   "date": "2025-08-25",
+   "url": "https://epaper.hubeidaily.net/pad/content/202508/25/content_324112.html"
+  },
+  {
+   "id": 11,
+   "title": "图文：蕲春管窑 600年不熄的窑火",
+   "publisher": "人民网",
+   "date": "2012-12-08",
+   "url": "http://www.people.com.cn/24hour/n/2012/1208/c25408-19832175.html"
+  },
+  {
+   "id": 12,
+   "title": "湖北蕲春县管窑镇：制陶小镇焕发新生机",
+   "publisher": "中国网",
+   "date": "2017-06-05",
+   "url": "http://news1.china.com.cn/2017-06/05/content_40968625_4.htm"
+  },
+  {
+   "id": 18,
+   "title": "看千年龙窑开火烧窑",
+   "publisher": "荆楚网",
+   "date": "2019-09-25",
+   "url": "http://www.cnhubei.com/huanggang/p/12365450.html"
+  },
+  {
+   "id": 22,
+   "title": "蕲春管窑手工制陶技艺（省级非遗项目）",
+   "publisher": "湖北省文化和旅游厅",
+   "date": "2017-11-28",
+   "url": "http://wlt.hubei.gov.cn/hbsfwzwhycw/wszt/ctjy/202005/t20200519_2278219.shtml"
+  }
+ ]
+}

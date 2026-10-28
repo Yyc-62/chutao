@@ -1,0 +1,47 @@
+{
+ "id": 44,
+ "name": "管窑木叶盏",
+ "alias": "桑叶入釉",
+ "type": "当代陶艺",
+ "dynasty": "当代",
+ "period": "近年复烧",
+ "kiln_id": 3,
+ "museum": "管窑镇李家窑",
+ "excavated": "蕲春",
+ "material": "黄白胶泥，木叶釉",
+ "technique": "手工拉坯、桑叶入釉、龙窑柴烧",
+ "dimensions": "口径约10—12厘米",
+ "description": "木叶盏取天然树叶置入黑釉盏中烧制，叶脉纹理随窑变定格于盏心。2022年北京冬奥会特许商品由湖北省工艺美术大师何登明制作，口径约12厘米、高约4.5厘米，盏底刻冬奥会徽，是管窑手工制陶技艺走向世界的代表作。",
+ "image": "static/images/guanyao_muyezhan.jpg",
+ "image_credit": "蕲春网（管窑木叶盏）",
+ "kiln": {
+  "id": 3,
+  "name": "蕲春管窑",
+  "alias": "管窑陶器·窑州",
+  "category": "民窑·地理标志",
+  "image": "static/images/guanyao_dragon_kiln.jpg"
+ },
+ "sources": [
+  {
+   "id": 22,
+   "title": "蕲春管窑手工制陶技艺（省级非遗项目）",
+   "publisher": "湖北省文化和旅游厅",
+   "date": "2017-11-28",
+   "url": "http://wlt.hubei.gov.cn/hbsfwzwhycw/wszt/ctjy/202005/t20200519_2278219.shtml"
+  },
+  {
+   "id": 9,
+   "title": "守得住古法传统 跟得上时兴潮流 蕲春千年楚窑再现熊熊炉火",
+   "publisher": "湖北日报/荆楚网",
+   "date": "2023-05-07",
+   "url": "http://xczx.cnhubei.com/whzx/202305/t4616171.shtml"
+  },
+  {
+   "id": 27,
+   "title": "大师变网红，这场直播带你云享非遗（管窑木叶盏）",
+   "publisher": "蕲春网",
+   "date": "2022-10-02",
+   "url": "https://www.cnqichun.com/xinmeiti/304.html"
+  }
+ ]
+}

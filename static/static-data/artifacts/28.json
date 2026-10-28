@@ -1,0 +1,33 @@
+{
+ "id": 28,
+ "name": "屈家岭文化陶器组合",
+ "alias": "陶豆·陶鬲·陶罐",
+ "type": "史前陶器",
+ "dynasty": "新石器时代",
+ "period": "屈家岭文化（约公元前3000—前2600年）",
+ "kiln_id": null,
+ "museum": "湖北省博物馆",
+ "excavated": "湖北屈家岭文化遗址",
+ "material": "泥质陶、夹砂陶",
+ "technique": "轮制、磨光",
+ "dimensions": "组器",
+ "description": "展柜中的豆、鬲、罐等陶器组合，反映屈家岭文化成熟的轮制技术与以稻作为基础的生活用器体系，是荆楚制陶传统的直接源头。",
+ "image": "static/images/ws_qujialing2.jpg",
+ "image_credit": "湖北省博物馆藏（Wikimedia Commons CC0）",
+ "sources": [
+  {
+   "id": 5,
+   "title": "首部展示楚地近七千年陶瓷发展史的丛书编纂完成",
+   "publisher": "中国新闻网",
+   "date": "2014-12-08",
+   "url": "https://www.chinanews.com.cn/cul/2014/12-08/6854672.shtml"
+  },
+  {
+   "id": 20,
+   "title": "Wikimedia Commons：湖北省博物馆楚文化展/湖泗窑址群出土文物展图片（CC0/CC BY-SA 4.0）",
+   "publisher": "Wikimedia Commons",
+   "date": "2026-08",
+   "url": "https://commons.wikimedia.org/"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "id": 42,
+ "name": "纪南城彩绘陶鼎",
+ "alias": "楚都彩绘礼器",
+ "type": "礼器·炊器",
+ "dynasty": "战国",
+ "period": "公元前475—前221年",
+ "kiln_id": 1,
+ "museum": "纪南城考古站标本室",
+ "excavated": "楚纪南故城",
+ "material": "灰陶，彩绘",
+ "technique": "轮制、模制、彩绘",
+ "dimensions": "通高约25—35厘米",
+ "description": "现存于纪南城考古站标本室的彩绘陶鼎，纹饰明暗得当、色调爽然，是楚都陶窑烧制的高水平仿铜礼器，被誉为不可多得的陶艺上乘之作。",
+ "image": null,
+ "image_credit": "资料图暂缺（中国文艺网“楚陶传承人”专题）",
+ "kiln": {
+  "id": 1,
+  "name": "纪南城制陶作坊遗址",
+  "alias": "楚都窑址群·郢都陶窑",
+  "category": "古窑址·东周",
+  "image": "static/images/ws_ding.jpg"
+ },
+ "sources": [
+  {
+   "id": 3,
+   "title": "即将消失的职业之（七）楚陶传承人",
+   "publisher": "中国文艺网（《中国艺术报》）",
+   "date": "2015-05-05",
+   "url": "https://cflac.org.cn/wywzt/2015/xiaoshidezhiye/201505/t20150505_294053.html"
+  }
+ ]
+}

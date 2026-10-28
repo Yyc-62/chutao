@@ -1,0 +1,40 @@
+{
+ "id": 4,
+ "name": "战国陶鬲",
+ "alias": "楚式鬲",
+ "type": "炊器",
+ "dynasty": "战国",
+ "period": "公元前475—前221年",
+ "kiln_id": 1,
+ "museum": "湖北省博物馆",
+ "excavated": "湖北楚墓",
+ "material": "夹砂灰陶",
+ "technique": "轮制，足裆模制",
+ "dimensions": "高约15—25厘米",
+ "description": "楚文化最典型的炊器之一，三袋足便于受火，夹砂胎耐高温。楚式鬲沿袭中原鬲形又融入地方风格，是楚人饮食生活的标志性器物。",
+ "image": "static/images/ws_li.jpg",
+ "image_credit": "湖北省博物馆藏（Wikimedia Commons CC0）",
+ "kiln": {
+  "id": 1,
+  "name": "纪南城制陶作坊遗址",
+  "alias": "楚都窑址群·郢都陶窑",
+  "category": "古窑址·东周",
+  "image": "static/images/ws_ding.jpg"
+ },
+ "sources": [
+  {
+   "id": 20,
+   "title": "Wikimedia Commons：湖北省博物馆楚文化展/湖泗窑址群出土文物展图片（CC0/CC BY-SA 4.0）",
+   "publisher": "Wikimedia Commons",
+   "date": "2026-08",
+   "url": "https://commons.wikimedia.org/"
+  },
+  {
+   "id": 3,
+   "title": "即将消失的职业之（七）楚陶传承人",
+   "publisher": "中国文艺网（《中国艺术报》）",
+   "date": "2015-05-05",
+   "url": "https://cflac.org.cn/wywzt/2015/xiaoshidezhiye/201505/t20150505_294053.html"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "id": 32,
+ "name": "战国承插式陶水管（组）",
+ "alias": "排水陶管",
+ "type": "建材·市政设施",
+ "dynasty": "战国",
+ "period": "公元前475—前221年",
+ "kiln_id": 1,
+ "museum": "湖北省博物馆",
+ "excavated": "楚纪南故城",
+ "material": "灰陶",
+ "technique": "轮制、承插套接，饰绳纹",
+ "dimensions": "径约15—30厘米",
+ "description": "三件承插式陶水管可逐节套接构成城市排水管网，外壁绳纹既加固胎体又便于施工，是楚国都城公共工程的实物见证。",
+ "image": "static/images/ws_tiles.jpg",
+ "image_credit": "湖北省博物馆藏（Wikimedia Commons CC0）",
+ "kiln": {
+  "id": 1,
+  "name": "纪南城制陶作坊遗址",
+  "alias": "楚都窑址群·郢都陶窑",
+  "category": "古窑址·东周",
+  "image": "static/images/ws_ding.jpg"
+ },
+ "sources": [
+  {
+   "id": 3,
+   "title": "即将消失的职业之（七）楚陶传承人",
+   "publisher": "中国文艺网（《中国艺术报》）",
+   "date": "2015-05-05",
+   "url": "https://cflac.org.cn/wywzt/2015/xiaoshidezhiye/201505/t20150505_294053.html"
+  },
+  {
+   "id": 19,
+   "title": "荆州纪南城发现一批东周窑址",
+   "publisher": "雅昌艺术网",
+   "date": "2014-02-17",
+   "url": "https://news.artron.net/20140217/n567799_.html"
+  },
+  {
+   "id": 20,
+   "title": "Wikimedia Commons：湖北省博物馆楚文化展/湖泗窑址群出土文物展图片（CC0/CC BY-SA 4.0）",
+   "publisher": "Wikimedia Commons",
+   "date": "2026-08",
+   "url": "https://commons.wikimedia.org/"
+  }
+ ]
+}
